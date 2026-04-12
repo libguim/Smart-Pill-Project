@@ -1,0 +1,14 @@
+# 1. 모든 데이터 폴더 내의 실제 파일(1만 개 이미지)들을 제외
+# 폴더 이름 뒤에 /를 붙이면 해당 폴더 전체를 무시합니다.
+data/raw/aihub_pill/images/
+proj_pill/pill_data/pill_data_croped/
+proj_pill/pill_data/test/pill_data_croped_test/
+
+# 2. 하지만 압축파일(.zip)은 업로드 대상에 포함 (제외 목록에서 제외)
+!*.zip
+
+# 3. 모델 가중치 및 캐시 (기존 유지)
+*.pt
+*.pth
+__pycache__/
+.ipynb_checkpoints/

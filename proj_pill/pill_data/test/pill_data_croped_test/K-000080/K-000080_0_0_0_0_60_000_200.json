@@ -1,0 +1,81 @@
+{
+	"images": [
+		{
+			"file_name": "K-000080_0_0_0_0_60_000_200.png",
+			"width": 976,
+			"height": 1280,
+			"imgfile": "K-000080_0_0_0_0_60_000_200.png",
+			"drug_N": "K-000080",
+			"drug_S": "정상알약",
+			"back_color": "검은색 배경",
+			"drug_dir": "앞면",
+			"light_color": "전구색",
+			"camera_la": 60,
+			"camera_lo": 0,
+			"size": 200,
+			"dl_idx": "79",
+			"dl_mapping_code": "K-000080",
+			"dl_name": "마이암부톨제피정 400mg",
+			"dl_name_en": "Myambutol Tab. 400mg",
+			"img_key": "http://connectdi.com/design/img/drug/147765859194400050.jpg",
+			"dl_material": "에탐부톨염산염",
+			"dl_material_en": "Ethambutol Hydrochloride",
+			"dl_custom_shape": "정제, 저작정",
+			"dl_company": "(주)유한양행",
+			"dl_company_en": "Yuhan",
+			"di_company_mf": "",
+			"di_company_mf_en": "",
+			"item_seq": 196700060,
+			"di_item_permit_date": "19671002",
+			"di_class_no": "[06220]항결핵제",
+			"di_etc_otc_code": "전문의약품",
+			"di_edi_code": "642100440,A04501511",
+			"chart": "황색의 원형필름코팅정제",
+			"drug_shape": "원형",
+			"thick": 5.3,
+			"leng_long": 12.7,
+			"leng_short": 12.7,
+			"print_front": "YH",
+			"print_back": "MB",
+			"color_class1": "노랑",
+			"color_class2": "",
+			"line_front": "",
+			"line_back": "",
+			"img_regist_ts": "20050704",
+			"form_code_name": "필름코팅정",
+			"mark_code_front_anal": "",
+			"mark_code_back_anal": "",
+			"mark_code_front_img": "",
+			"mark_code_back_img": "",
+			"mark_code_front": "",
+			"mark_code_back": "",
+			"change_date": "20200604",
+			"id": 1
+		}
+	],
+	"type": "instances",
+	"annotations": [
+		{
+			"area": 98452,
+			"iscrowd": 0,
+			"bbox": [
+				327,
+				440,
+				326,
+				302
+			],
+			"category_id": 1,
+			"ignore": 0,
+			"segmentation": [],
+			"id": 1,
+			"image_id": 1
+		}
+	],
+	"categories": [
+		{
+			"supercategory": "pill",
+			"id": 1,
+			"name": "Drug"
+		}
+	]
+}

@@ -1,0 +1,81 @@
+{
+	"images": [
+		{
+			"file_name": "K-000069_0_0_0_0_60_000_200.png",
+			"width": 976,
+			"height": 1280,
+			"imgfile": "K-000069_0_0_0_0_60_000_200.png",
+			"drug_N": "K-000069",
+			"drug_S": "정상알약",
+			"back_color": "검은색 배경",
+			"drug_dir": "앞면",
+			"light_color": "전구색",
+			"camera_la": 60,
+			"camera_lo": 0,
+			"size": 200,
+			"dl_idx": "68",
+			"dl_mapping_code": "K-000069",
+			"dl_name": "타이밍정 50mg/PTP",
+			"dl_name_en": "Timing Tab.",
+			"img_key": "http://connectdi.com/design/img/drug/1NAT_bwbZd9.jpg",
+			"dl_material": "카페인무수물",
+			"dl_material_en": "Caffeine Anhydrous",
+			"dl_custom_shape": "정제, 저작정",
+			"dl_company": "지엘파마(주)",
+			"dl_company_en": "Glpharma",
+			"di_company_mf": "",
+			"di_company_mf_en": "",
+			"item_seq": 196500051,
+			"di_item_permit_date": "19651221",
+			"di_class_no": "[01150]각성제,흥분제",
+			"di_etc_otc_code": "일반의약품",
+			"di_edi_code": "649700900",
+			"chart": "노란색의 팔각형 정제",
+			"drug_shape": "팔각형",
+			"thick": 3.9,
+			"leng_long": 7.9,
+			"leng_short": 7.9,
+			"print_front": "마크",
+			"print_back": "T1E",
+			"color_class1": "노랑",
+			"color_class2": "",
+			"line_front": "",
+			"line_back": "",
+			"img_regist_ts": "20200603",
+			"form_code_name": "나정",
+			"mark_code_front_anal": "",
+			"mark_code_back_anal": "",
+			"mark_code_front_img": "",
+			"mark_code_back_img": "",
+			"mark_code_front": "",
+			"mark_code_back": "",
+			"change_date": "20200103",
+			"id": 1
+		}
+	],
+	"type": "instances",
+	"annotations": [
+		{
+			"area": 42228,
+			"iscrowd": 0,
+			"bbox": [
+				352,
+				500,
+				207,
+				204
+			],
+			"category_id": 1,
+			"ignore": 0,
+			"segmentation": [],
+			"id": 1,
+			"image_id": 1
+		}
+	],
+	"categories": [
+		{
+			"supercategory": "pill",
+			"id": 1,
+			"name": "Drug"
+		}
+	]
+}
