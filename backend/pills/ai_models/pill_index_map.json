@@ -1,0 +1,6002 @@
+{
+    "0": {
+        "k_code": "K-037589",
+        "item_seq": "201507146",
+        "print_front": "∩X",
+        "print_back": ""
+    },
+    "1": {
+        "k_code": "K-029534",
+        "item_seq": "201202806",
+        "print_front": "5/1000",
+        "print_back": "4223"
+    },
+    "2": {
+        "k_code": "K-015270",
+        "item_seq": "200402645",
+        "print_front": "HMP",
+        "print_back": "500"
+    },
+    "3": {
+        "k_code": "K-040531",
+        "item_seq": "201605864",
+        "print_front": "UCB500XR",
+        "print_back": ""
+    },
+    "4": {
+        "k_code": "K-041153",
+        "item_seq": "201700814",
+        "print_front": "P분할선B",
+        "print_back": "500"
+    },
+    "5": {
+        "k_code": "K-036625",
+        "item_seq": "201503635",
+        "print_front": "107210/500",
+        "print_back": ""
+    },
+    "6": {
+        "k_code": "K-012503",
+        "item_seq": "200209895",
+        "print_front": "ucb분할선1000",
+        "print_back": ""
+    },
+    "7": {
+        "k_code": "K-029962",
+        "item_seq": "201206669",
+        "print_front": "PENTASA",
+        "print_back": "PENTASA"
+    },
+    "8": {
+        "k_code": "K-003945",
+        "item_seq": "199203279",
+        "print_front": "FCE분할선500",
+        "print_back": "분할선"
+    },
+    "9": {
+        "k_code": "K-010610",
+        "item_seq": "200101309",
+        "print_front": "DB분할선850",
+        "print_back": ""
+    },
+    "10": {
+        "k_code": "K-020014",
+        "item_seq": "200611524",
+        "print_front": "RO분할선C분할선HE분할선마크분할선",
+        "print_back": "십자분할선"
+    },
+    "11": {
+        "k_code": "K-027602",
+        "item_seq": "201004172",
+        "print_front": "GILEAD4331",
+        "print_back": "300"
+    },
+    "12": {
+        "k_code": "K-040530",
+        "item_seq": "201605863",
+        "print_front": "UCB750XR",
+        "print_back": ""
+    },
+    "13": {
+        "k_code": "K-029533",
+        "item_seq": "201202805",
+        "print_front": "5/500",
+        "print_back": "4221"
+    },
+    "14": {
+        "k_code": "K-017517",
+        "item_seq": "200502201",
+        "print_front": "HM",
+        "print_back": "MF500"
+    },
+    "15": {
+        "k_code": "K-043814",
+        "item_seq": "201801977",
+        "print_front": "ID 855",
+        "print_back": ""
+    },
+    "16": {
+        "k_code": "K-002753",
+        "item_seq": "198901317",
+        "print_front": "ZOYLEX",
+        "print_back": "마크"
+    },
+    "17": {
+        "k_code": "K-047218",
+        "item_seq": "201903490",
+        "print_front": "YHS300",
+        "print_back": ""
+    },
+    "18": {
+        "k_code": "K-030008",
+        "item_seq": "201206793",
+        "print_front": "BCWP",
+        "print_back": "분할선"
+    },
+    "19": {
+        "k_code": "K-030309",
+        "item_seq": "201208292",
+        "print_front": "마크",
+        "print_back": "D2/1000"
+    },
+    "20": {
+        "k_code": "K-009429",
+        "item_seq": "200002949",
+        "print_front": "CRMT",
+        "print_back": ""
+    },
+    "21": {
+        "k_code": "K-004550",
+        "item_seq": "199400511",
+        "print_front": "Y분할선H",
+        "print_back": "PT"
+    },
+    "22": {
+        "k_code": "K-027179",
+        "item_seq": "201001728",
+        "print_front": "4142",
+        "print_back": "마크"
+    },
+    "23": {
+        "k_code": "K-018969",
+        "item_seq": "200603879",
+        "print_front": "S405500",
+        "print_back": ""
+    },
+    "24": {
+        "k_code": "K-027737",
+        "item_seq": "201005121",
+        "print_front": "500",
+        "print_back": "CKD"
+    },
+    "25": {
+        "k_code": "K-002944",
+        "item_seq": "199000363",
+        "print_front": "ID CC",
+        "print_back": ""
+    },
+    "26": {
+        "k_code": "K-016551",
+        "item_seq": "200500254",
+        "print_front": "DGTH",
+        "print_back": "800"
+    },
+    "27": {
+        "k_code": "K-004578",
+        "item_seq": "199400695",
+        "print_front": "DS",
+        "print_back": ""
+    },
+    "28": {
+        "k_code": "K-022703",
+        "item_seq": "200712979",
+        "print_front": "XR400",
+        "print_back": ""
+    },
+    "29": {
+        "k_code": "K-023740",
+        "item_seq": "200805555",
+        "print_front": "SR25",
+        "print_back": ""
+    },
+    "30": {
+        "k_code": "K-023835",
+        "item_seq": "200805910",
+        "print_front": "LCE 200",
+        "print_back": ""
+    },
+    "31": {
+        "k_code": "K-018110",
+        "item_seq": "200510974",
+        "print_front": "마크213",
+        "print_back": "30"
+    },
+    "32": {
+        "k_code": "K-018254",
+        "item_seq": "200511904",
+        "print_front": "DXR",
+        "print_back": "500"
+    },
+    "33": {
+        "k_code": "K-009460",
+        "item_seq": "200003111",
+        "print_front": "HanmiITRA",
+        "print_back": ""
+    },
+    "34": {
+        "k_code": "K-024631",
+        "item_seq": "200809402",
+        "print_front": "LPT",
+        "print_back": "80"
+    },
+    "35": {
+        "k_code": "K-042226",
+        "item_seq": "201706559",
+        "print_front": "SJ",
+        "print_back": "T"
+    },
+    "36": {
+        "k_code": "K-027735",
+        "item_seq": "201005083",
+        "print_front": "마크 A3",
+        "print_back": ""
+    },
+    "37": {
+        "k_code": "K-013937",
+        "item_seq": "200308577",
+        "print_front": "마크",
+        "print_back": "160"
+    },
+    "38": {
+        "k_code": "K-031885",
+        "item_seq": "201309418",
+        "print_front": "81",
+        "print_back": ""
+    },
+    "39": {
+        "k_code": "K-038186",
+        "item_seq": "201600389",
+        "print_front": "마크 S12",
+        "print_back": "850"
+    },
+    "40": {
+        "k_code": "K-038183",
+        "item_seq": "201600386",
+        "print_front": "마크 S5",
+        "print_back": "850"
+    },
+    "41": {
+        "k_code": "K-053132",
+        "item_seq": "202007945",
+        "print_front": "",
+        "print_back": ""
+    },
+    "42": {
+        "k_code": "K-035837",
+        "item_seq": "201501773",
+        "print_front": "SVL",
+        "print_back": ""
+    },
+    "43": {
+        "k_code": "K-033465",
+        "item_seq": "201403085",
+        "print_front": "SK S",
+        "print_back": ""
+    },
+    "44": {
+        "k_code": "K-018757",
+        "item_seq": "200600860",
+        "print_front": "URO분할선K10",
+        "print_back": "분할선"
+    },
+    "45": {
+        "k_code": "K-034568",
+        "item_seq": "201405122",
+        "print_front": "80/10",
+        "print_back": "YH"
+    },
+    "46": {
+        "k_code": "K-000400",
+        "item_seq": "197700126",
+        "print_front": "D-WFCD",
+        "print_back": ""
+    },
+    "47": {
+        "k_code": "K-011274",
+        "item_seq": "200108822",
+        "print_front": "UN-3",
+        "print_back": ""
+    },
+    "48": {
+        "k_code": "K-038187",
+        "item_seq": "201600390",
+        "print_front": "마크 S12",
+        "print_back": "1000"
+    },
+    "49": {
+        "k_code": "K-000913",
+        "item_seq": "198300002",
+        "print_front": "S분할선P분할선P분할선C",
+        "print_back": "분할선분할선분할선"
+    },
+    "50": {
+        "k_code": "K-027926",
+        "item_seq": "201006967",
+        "print_front": "T/A ER",
+        "print_back": ""
+    },
+    "51": {
+        "k_code": "K-030308",
+        "item_seq": "201208291",
+        "print_front": "마크",
+        "print_back": "D2/850"
+    },
+    "52": {
+        "k_code": "K-011833",
+        "item_seq": "200201406",
+        "print_front": "DWP",
+        "print_back": "Λ분할선X"
+    },
+    "53": {
+        "k_code": "K-023729",
+        "item_seq": "200805497",
+        "print_front": "KP",
+        "print_back": "T분할선A"
+    },
+    "54": {
+        "k_code": "K-007022",
+        "item_seq": "199801023",
+        "print_front": "SABRIL",
+        "print_back": "분할선"
+    },
+    "55": {
+        "k_code": "K-028010",
+        "item_seq": "201007750",
+        "print_front": "C분할선32",
+        "print_back": "CKD"
+    },
+    "56": {
+        "k_code": "K-012502",
+        "item_seq": "200209894",
+        "print_front": "ucb분할선500",
+        "print_back": ""
+    },
+    "57": {
+        "k_code": "K-020769",
+        "item_seq": "200703280",
+        "print_front": "ID L5",
+        "print_back": "분할선"
+    },
+    "58": {
+        "k_code": "K-007947",
+        "item_seq": "199901651",
+        "print_front": "OR",
+        "print_back": "600"
+    },
+    "59": {
+        "k_code": "K-023612",
+        "item_seq": "200804957",
+        "print_front": "SK",
+        "print_back": "USK"
+    },
+    "60": {
+        "k_code": "K-020006",
+        "item_seq": "000020006",
+        "print_front": "",
+        "print_back": ""
+    },
+    "61": {
+        "k_code": "K-000438",
+        "item_seq": "197700537",
+        "print_front": "BR분할선NM",
+        "print_back": ""
+    },
+    "62": {
+        "k_code": "K-016302",
+        "item_seq": "200410519",
+        "print_front": "KU 119",
+        "print_back": "분할선"
+    },
+    "63": {
+        "k_code": "K-012767",
+        "item_seq": "200300401",
+        "print_front": "10분할선00",
+        "print_back": "D.분할선W"
+    },
+    "64": {
+        "k_code": "K-044258",
+        "item_seq": "201802991",
+        "print_front": "마크",
+        "print_back": "PGN 330"
+    },
+    "65": {
+        "k_code": "K-040623",
+        "item_seq": "201606255",
+        "print_front": "360",
+        "print_back": ""
+    },
+    "66": {
+        "k_code": "K-022706",
+        "item_seq": "200712982",
+        "print_front": "XR 200",
+        "print_back": ""
+    },
+    "67": {
+        "k_code": "K-038106",
+        "item_seq": "201508554",
+        "print_front": "SMH",
+        "print_back": ""
+    },
+    "68": {
+        "k_code": "K-022712",
+        "item_seq": "200713008",
+        "print_front": "575",
+        "print_back": ""
+    },
+    "69": {
+        "k_code": "K-005087",
+        "item_seq": "199501060",
+        "print_front": "ISOPTIN",
+        "print_back": "SR분할선180"
+    },
+    "70": {
+        "k_code": "K-008901",
+        "item_seq": "200001308",
+        "print_front": "06/012D",
+        "print_back": ""
+    },
+    "71": {
+        "k_code": "K-008223",
+        "item_seq": "199903252",
+        "print_front": "S",
+        "print_back": ""
+    },
+    "72": {
+        "k_code": "K-022704",
+        "item_seq": "200712980",
+        "print_front": "XR300",
+        "print_back": ""
+    },
+    "73": {
+        "k_code": "K-013828",
+        "item_seq": "200307806",
+        "print_front": "CT",
+        "print_back": ""
+    },
+    "74": {
+        "k_code": "K-038182",
+        "item_seq": "201600385",
+        "print_front": "마크 S5",
+        "print_back": "500"
+    },
+    "75": {
+        "k_code": "K-028129",
+        "item_seq": "201100794",
+        "print_front": "O40",
+        "print_back": "마크"
+    },
+    "76": {
+        "k_code": "K-028901",
+        "item_seq": "201108203",
+        "print_front": "RENVELA800",
+        "print_back": ""
+    },
+    "77": {
+        "k_code": "K-037666",
+        "item_seq": "201507410",
+        "print_front": "FX80",
+        "print_back": "분할선"
+    },
+    "78": {
+        "k_code": "K-036551",
+        "item_seq": "201503484",
+        "print_front": "107310/1000",
+        "print_back": ""
+    },
+    "79": {
+        "k_code": "K-052958",
+        "item_seq": "202006983",
+        "print_front": "LPZ 10/20",
+        "print_back": ""
+    },
+    "80": {
+        "k_code": "K-010931",
+        "item_seq": "200102615",
+        "print_front": "HMP",
+        "print_back": ""
+    },
+    "81": {
+        "k_code": "K-035205",
+        "item_seq": "201500364",
+        "print_front": "333",
+        "print_back": ""
+    },
+    "82": {
+        "k_code": "K-040671",
+        "item_seq": "201606391",
+        "print_front": "TTΛ3",
+        "print_back": ""
+    },
+    "83": {
+        "k_code": "K-041949",
+        "item_seq": "201705044",
+        "print_front": "AM-P5-50-12.5",
+        "print_back": "분할선"
+    },
+    "84": {
+        "k_code": "K-031918",
+        "item_seq": "201309481",
+        "print_front": "IA-1",
+        "print_back": ""
+    },
+    "85": {
+        "k_code": "K-036480",
+        "item_seq": "201503253",
+        "print_front": "REN DWP",
+        "print_back": ""
+    },
+    "86": {
+        "k_code": "K-038184",
+        "item_seq": "201600387",
+        "print_front": "마크 S5",
+        "print_back": "1000"
+    },
+    "87": {
+        "k_code": "K-028052",
+        "item_seq": "201100231",
+        "print_front": "VCV",
+        "print_back": ""
+    },
+    "88": {
+        "k_code": "K-019299",
+        "item_seq": "200606294",
+        "print_front": "D분할선GT",
+        "print_back": "분할선"
+    },
+    "89": {
+        "k_code": "K-042262",
+        "item_seq": "201706645",
+        "print_front": "마크분할선S",
+        "print_back": "125"
+    },
+    "90": {
+        "k_code": "K-003137",
+        "item_seq": "199001612",
+        "print_front": "CRP",
+        "print_back": "분할선"
+    },
+    "91": {
+        "k_code": "K-029200",
+        "item_seq": "201110472",
+        "print_front": "MI",
+        "print_back": "AM분할선400"
+    },
+    "92": {
+        "k_code": "K-022644",
+        "item_seq": "200712588",
+        "print_front": "HS",
+        "print_back": "T/A"
+    },
+    "93": {
+        "k_code": "K-042041",
+        "item_seq": "201705685",
+        "print_front": "AQ2",
+        "print_back": ""
+    },
+    "94": {
+        "k_code": "K-039815",
+        "item_seq": "201604015",
+        "print_front": "OZ분할선60",
+        "print_back": "OZ분할선MI"
+    },
+    "95": {
+        "k_code": "K-004669",
+        "item_seq": "199401183",
+        "print_front": "ZOYLEX",
+        "print_back": "마크"
+    },
+    "96": {
+        "k_code": "K-035207",
+        "item_seq": "201500366",
+        "print_front": "357",
+        "print_back": ""
+    },
+    "97": {
+        "k_code": "K-003259",
+        "item_seq": "199100461",
+        "print_front": "마크 18",
+        "print_back": "분할선"
+    },
+    "98": {
+        "k_code": "K-024981",
+        "item_seq": "200811253",
+        "print_front": "HM",
+        "print_back": "S분할선8"
+    },
+    "99": {
+        "k_code": "K-040639",
+        "item_seq": "201606307",
+        "print_front": "A01",
+        "print_back": ""
+    },
+    "100": {
+        "k_code": "K-010222",
+        "item_seq": "200009024",
+        "print_front": "SEROQUEL  200",
+        "print_back": ""
+    },
+    "101": {
+        "k_code": "K-026894",
+        "item_seq": "200908494",
+        "print_front": "BSP",
+        "print_back": "5분할선5분할선5"
+    },
+    "102": {
+        "k_code": "K-040317",
+        "item_seq": "201605174",
+        "print_front": "HP",
+        "print_back": "MI"
+    },
+    "103": {
+        "k_code": "K-033025",
+        "item_seq": "201401985",
+        "print_front": "IA-4",
+        "print_back": ""
+    },
+    "104": {
+        "k_code": "K-010224",
+        "item_seq": "200009026",
+        "print_front": "AEI",
+        "print_back": "40mG"
+    },
+    "105": {
+        "k_code": "K-007646",
+        "item_seq": "199900204",
+        "print_front": "313분할선313",
+        "print_back": ""
+    },
+    "106": {
+        "k_code": "K-025367",
+        "item_seq": "200901817",
+        "print_front": "515",
+        "print_back": ""
+    },
+    "107": {
+        "k_code": "K-025894",
+        "item_seq": "200904445",
+        "print_front": "80",
+        "print_back": "분할선"
+    },
+    "108": {
+        "k_code": "K-030599",
+        "item_seq": "201301616",
+        "print_front": "MI",
+        "print_back": "AM분할선200"
+    },
+    "109": {
+        "k_code": "K-033024",
+        "item_seq": "201401984",
+        "print_front": "IA-3",
+        "print_back": ""
+    },
+    "110": {
+        "k_code": "K-003687",
+        "item_seq": "199200653",
+        "print_front": "SR",
+        "print_back": ""
+    },
+    "111": {
+        "k_code": "K-032167",
+        "item_seq": "201310244",
+        "print_front": "RT",
+        "print_back": ""
+    },
+    "112": {
+        "k_code": "K-027840",
+        "item_seq": "201006077",
+        "print_front": "M2",
+        "print_back": ""
+    },
+    "113": {
+        "k_code": "K-026715",
+        "item_seq": "200906719",
+        "print_front": "XR 150",
+        "print_back": ""
+    },
+    "114": {
+        "k_code": "K-023208",
+        "item_seq": "200802053",
+        "print_front": "GD OR",
+        "print_back": "750"
+    },
+    "115": {
+        "k_code": "K-034569",
+        "item_seq": "201405123",
+        "print_front": "40/10",
+        "print_back": "YH"
+    },
+    "116": {
+        "k_code": "K-028828",
+        "item_seq": "201107272",
+        "print_front": "GLM25",
+        "print_back": ""
+    },
+    "117": {
+        "k_code": "K-054813",
+        "item_seq": "200201478",
+        "print_front": "HR",
+        "print_back": ""
+    },
+    "118": {
+        "k_code": "K-029345",
+        "item_seq": "201200417",
+        "print_front": "500/20",
+        "print_back": ""
+    },
+    "119": {
+        "k_code": "K-006808",
+        "item_seq": "199704519",
+        "print_front": "500분할선mg",
+        "print_back": "PENTASA"
+    },
+    "120": {
+        "k_code": "K-012668",
+        "item_seq": "200300144",
+        "print_front": "GL2 GL2",
+        "print_back": ""
+    },
+    "121": {
+        "k_code": "K-008451",
+        "item_seq": "199906953",
+        "print_front": "마크XL",
+        "print_back": ""
+    },
+    "122": {
+        "k_code": "K-035209",
+        "item_seq": "201500368",
+        "print_front": "D.W300",
+        "print_back": ""
+    },
+    "123": {
+        "k_code": "K-027187",
+        "item_seq": "201001744",
+        "print_front": "Dila 64mgSR",
+        "print_back": ""
+    },
+    "124": {
+        "k_code": "K-003361",
+        "item_seq": "199101279",
+        "print_front": "AUG 625",
+        "print_back": ""
+    },
+    "125": {
+        "k_code": "K-012447",
+        "item_seq": "200209716",
+        "print_front": "마크 HC",
+        "print_back": ""
+    },
+    "126": {
+        "k_code": "K-028122",
+        "item_seq": "201100749",
+        "print_front": "마크 R110",
+        "print_back": ""
+    },
+    "127": {
+        "k_code": "K-002265",
+        "item_seq": "198801052",
+        "print_front": "C분할선2",
+        "print_back": "INO"
+    },
+    "128": {
+        "k_code": "K-000658",
+        "item_seq": "198000206",
+        "print_front": "ATA",
+        "print_back": ""
+    },
+    "129": {
+        "k_code": "K-011647",
+        "item_seq": "200200771",
+        "print_front": "5046",
+        "print_back": ""
+    },
+    "130": {
+        "k_code": "K-026694",
+        "item_seq": "200906613",
+        "print_front": "SK",
+        "print_back": "745"
+    },
+    "131": {
+        "k_code": "K-010614",
+        "item_seq": "200101317",
+        "print_front": "D분할선B",
+        "print_back": ""
+    },
+    "132": {
+        "k_code": "K-041432",
+        "item_seq": "201701574",
+        "print_front": "Hanmi R/D3",
+        "print_back": ""
+    },
+    "133": {
+        "k_code": "K-044257",
+        "item_seq": "201802990",
+        "print_front": "마크",
+        "print_back": "PGN 165"
+    },
+    "134": {
+        "k_code": "K-040343",
+        "item_seq": "201605344",
+        "print_front": "SK",
+        "print_back": "L10"
+    },
+    "135": {
+        "k_code": "K-004168",
+        "item_seq": "199301198",
+        "print_front": "BO",
+        "print_back": "마크"
+    },
+    "136": {
+        "k_code": "K-003727",
+        "item_seq": "199201046",
+        "print_front": "C L",
+        "print_back": "마크"
+    },
+    "137": {
+        "k_code": "K-018409",
+        "item_seq": "200600116",
+        "print_front": "D.W",
+        "print_back": "PLUNAZOL150"
+    },
+    "138": {
+        "k_code": "K-030091",
+        "item_seq": "201207003",
+        "print_front": "TL분할선100",
+        "print_back": "MI"
+    },
+    "139": {
+        "k_code": "K-021426",
+        "item_seq": "200706542",
+        "print_front": "LPT",
+        "print_back": "40"
+    },
+    "140": {
+        "k_code": "K-034597",
+        "item_seq": "201405223",
+        "print_front": "마크",
+        "print_back": "5010"
+    },
+    "141": {
+        "k_code": "K-010155",
+        "item_seq": "200008777",
+        "print_front": "TE분할선TE",
+        "print_back": "CG분할선CG"
+    },
+    "142": {
+        "k_code": "K-044707",
+        "item_seq": "201804024",
+        "print_front": "KL",
+        "print_back": "H"
+    },
+    "143": {
+        "k_code": "K-027693",
+        "item_seq": "201004772",
+        "print_front": "DIA분할선60",
+        "print_back": "DIA분할선60"
+    },
+    "144": {
+        "k_code": "K-022713",
+        "item_seq": "200713009",
+        "print_front": "577",
+        "print_back": ""
+    },
+    "145": {
+        "k_code": "K-044085",
+        "item_seq": "201802579",
+        "print_front": "A분할선G",
+        "print_back": "400"
+    },
+    "146": {
+        "k_code": "K-018119",
+        "item_seq": "200511002",
+        "print_front": "GX CX3",
+        "print_back": ""
+    },
+    "147": {
+        "k_code": "K-038855",
+        "item_seq": "201602430",
+        "print_front": "NB-890",
+        "print_back": ""
+    },
+    "148": {
+        "k_code": "K-023085",
+        "item_seq": "200801333",
+        "print_front": "GL4분할선GL4",
+        "print_back": "분할선"
+    },
+    "149": {
+        "k_code": "K-012501",
+        "item_seq": "200209893",
+        "print_front": "ucb분할선250",
+        "print_back": ""
+    },
+    "150": {
+        "k_code": "K-032605",
+        "item_seq": "201400537",
+        "print_front": "W50",
+        "print_back": ""
+    },
+    "151": {
+        "k_code": "K-030239",
+        "item_seq": "201207537",
+        "print_front": "LT분할선1000",
+        "print_back": ""
+    },
+    "152": {
+        "k_code": "K-040336",
+        "item_seq": "201605337",
+        "print_front": "F35",
+        "print_back": "R35"
+    },
+    "153": {
+        "k_code": "K-042118",
+        "item_seq": "201706182",
+        "print_front": "ID H2",
+        "print_back": ""
+    },
+    "154": {
+        "k_code": "K-041948",
+        "item_seq": "201705043",
+        "print_front": "AM-P5-100-12.5",
+        "print_back": "분할선"
+    },
+    "155": {
+        "k_code": "K-037578",
+        "item_seq": "201507099",
+        "print_front": "마크",
+        "print_back": "5050"
+    },
+    "156": {
+        "k_code": "K-030242",
+        "item_seq": "201207540",
+        "print_front": "LT분할선500",
+        "print_back": ""
+    },
+    "157": {
+        "k_code": "K-023838",
+        "item_seq": "200805918",
+        "print_front": "CZPF",
+        "print_back": ""
+    },
+    "158": {
+        "k_code": "K-033880",
+        "item_seq": "201403839",
+        "print_front": "",
+        "print_back": "JIC"
+    },
+    "159": {
+        "k_code": "K-010411",
+        "item_seq": "200100451",
+        "print_front": "ELCARTIN",
+        "print_back": ""
+    },
+    "160": {
+        "k_code": "K-059526",
+        "item_seq": "202101581",
+        "print_front": "HS14",
+        "print_back": ""
+    },
+    "161": {
+        "k_code": "K-044852",
+        "item_seq": "201804474",
+        "print_front": "D-W200",
+        "print_back": "분할선"
+    },
+    "162": {
+        "k_code": "K-012187",
+        "item_seq": "200202740",
+        "print_front": "LG분할선320",
+        "print_back": "LG분할선320"
+    },
+    "163": {
+        "k_code": "K-035206",
+        "item_seq": "201500365",
+        "print_front": "337",
+        "print_back": ""
+    },
+    "164": {
+        "k_code": "K-029872",
+        "item_seq": "201206336",
+        "print_front": "마크521",
+        "print_back": "200"
+    },
+    "165": {
+        "k_code": "K-023544",
+        "item_seq": "200804560",
+        "print_front": "HM",
+        "print_back": "T/A"
+    },
+    "166": {
+        "k_code": "K-011481",
+        "item_seq": "200200234",
+        "print_front": "PROVIGIL",
+        "print_back": "200분할선MG"
+    },
+    "167": {
+        "k_code": "K-042340",
+        "item_seq": "201706861",
+        "print_front": "마크분할선S",
+        "print_back": "88"
+    },
+    "168": {
+        "k_code": "K-019700",
+        "item_seq": "200608152",
+        "print_front": "SK",
+        "print_back": "747"
+    },
+    "169": {
+        "k_code": "K-027126",
+        "item_seq": "201001420",
+        "print_front": "마크",
+        "print_back": "P3"
+    },
+    "170": {
+        "k_code": "K-019156",
+        "item_seq": "200605253",
+        "print_front": "NT분할선16",
+        "print_back": "분할선"
+    },
+    "171": {
+        "k_code": "K-010225",
+        "item_seq": "200009027",
+        "print_front": "AEH",
+        "print_back": "20mG"
+    },
+    "172": {
+        "k_code": "K-024753",
+        "item_seq": "200810114",
+        "print_front": "FT",
+        "print_back": ""
+    },
+    "173": {
+        "k_code": "K-036163",
+        "item_seq": "201502631",
+        "print_front": "DAPE",
+        "print_back": ""
+    },
+    "174": {
+        "k_code": "K-034681",
+        "item_seq": "201405404",
+        "print_front": "80/5",
+        "print_back": "YH"
+    },
+    "175": {
+        "k_code": "K-028074",
+        "item_seq": "201100374",
+        "print_front": "2.5",
+        "print_back": "4214"
+    },
+    "176": {
+        "k_code": "K-030307",
+        "item_seq": "201208290",
+        "print_front": "마크",
+        "print_back": "D2/500"
+    },
+    "177": {
+        "k_code": "K-010158",
+        "item_seq": "200008797",
+        "print_front": "XELODA",
+        "print_back": "500"
+    },
+    "178": {
+        "k_code": "K-051326",
+        "item_seq": "202002674",
+        "print_front": "SR16",
+        "print_back": "분할선"
+    },
+    "179": {
+        "k_code": "K-031090",
+        "item_seq": "201307124",
+        "print_front": "GITF",
+        "print_back": ""
+    },
+    "180": {
+        "k_code": "K-038212",
+        "item_seq": "201600454",
+        "print_front": "ON4",
+        "print_back": "분할선"
+    },
+    "181": {
+        "k_code": "K-052957",
+        "item_seq": "202006982",
+        "print_front": "LPZ 10/10",
+        "print_back": ""
+    },
+    "182": {
+        "k_code": "K-030957",
+        "item_seq": "201306425",
+        "print_front": "BLH",
+        "print_back": ""
+    },
+    "183": {
+        "k_code": "K-013105",
+        "item_seq": "200301119",
+        "print_front": "DB분할선500",
+        "print_back": ""
+    },
+    "184": {
+        "k_code": "K-028813",
+        "item_seq": "201107222",
+        "print_front": "T2",
+        "print_back": "분할선"
+    },
+    "185": {
+        "k_code": "K-030232",
+        "item_seq": "201207514",
+        "print_front": "LV500",
+        "print_back": "분할선"
+    },
+    "186": {
+        "k_code": "K-023829",
+        "item_seq": "200805895",
+        "print_front": "CZPP",
+        "print_back": ""
+    },
+    "187": {
+        "k_code": "K-027338",
+        "item_seq": "201002745",
+        "print_front": "UT",
+        "print_back": "CL CR"
+    },
+    "188": {
+        "k_code": "K-032104",
+        "item_seq": "201310000",
+        "print_front": "INO",
+        "print_back": "M400"
+    },
+    "189": {
+        "k_code": "K-035589",
+        "item_seq": "201501326",
+        "print_front": "DWB",
+        "print_back": "BL"
+    },
+    "190": {
+        "k_code": "K-040996",
+        "item_seq": "201700244",
+        "print_front": "TTΛ1",
+        "print_back": ""
+    },
+    "191": {
+        "k_code": "K-023425",
+        "item_seq": "200803517",
+        "print_front": "FLO",
+        "print_back": "NVR"
+    },
+    "192": {
+        "k_code": "K-026281",
+        "item_seq": "200905339",
+        "print_front": "E분할선N",
+        "print_back": ""
+    },
+    "193": {
+        "k_code": "K-017522",
+        "item_seq": "200502213",
+        "print_front": "H분할선M",
+        "print_back": "F180"
+    },
+    "194": {
+        "k_code": "K-043935",
+        "item_seq": "201802237",
+        "print_front": "SJ",
+        "print_back": "TS3"
+    },
+    "195": {
+        "k_code": "K-012564",
+        "item_seq": "200210593",
+        "print_front": "",
+        "print_back": ""
+    },
+    "196": {
+        "k_code": "K-035000",
+        "item_seq": "201406092",
+        "print_front": "SJ",
+        "print_back": "500"
+    },
+    "197": {
+        "k_code": "K-011226",
+        "item_seq": "200108676",
+        "print_front": "ALV",
+        "print_back": ""
+    },
+    "198": {
+        "k_code": "K-038185",
+        "item_seq": "201600388",
+        "print_front": "마크 S12",
+        "print_back": "500"
+    },
+    "199": {
+        "k_code": "K-007447",
+        "item_seq": "199803482",
+        "print_front": "HL",
+        "print_back": ""
+    },
+    "200": {
+        "k_code": "K-010747",
+        "item_seq": "200101732",
+        "print_front": "B분할선K",
+        "print_back": "DX"
+    },
+    "201": {
+        "k_code": "K-038105",
+        "item_seq": "201508553",
+        "print_front": "SMF",
+        "print_back": ""
+    },
+    "202": {
+        "k_code": "K-024752",
+        "item_seq": "200810113",
+        "print_front": "FS",
+        "print_back": ""
+    },
+    "203": {
+        "k_code": "K-051540",
+        "item_seq": "202002995",
+        "print_front": "DM",
+        "print_back": "T4"
+    },
+    "204": {
+        "k_code": "K-045402",
+        "item_seq": "201900672",
+        "print_front": "마크",
+        "print_back": "PRC 2"
+    },
+    "205": {
+        "k_code": "K-043812",
+        "item_seq": "201801975",
+        "print_front": "ID 455",
+        "print_back": ""
+    },
+    "206": {
+        "k_code": "K-016235",
+        "item_seq": "200410088",
+        "print_front": "마크",
+        "print_back": "CDT052"
+    },
+    "207": {
+        "k_code": "K-020379",
+        "item_seq": "200701738",
+        "print_front": "마크",
+        "print_back": "2873"
+    },
+    "208": {
+        "k_code": "K-021930",
+        "item_seq": "200708838",
+        "print_front": "9543 30mg",
+        "print_back": ""
+    },
+    "209": {
+        "k_code": "K-033009",
+        "item_seq": "201401963",
+        "print_front": "S300",
+        "print_back": ""
+    },
+    "210": {
+        "k_code": "K-031917",
+        "item_seq": "201309480",
+        "print_front": "IA-2",
+        "print_back": ""
+    },
+    "211": {
+        "k_code": "K-023357",
+        "item_seq": "200803211",
+        "print_front": "SK",
+        "print_back": "L100"
+    },
+    "212": {
+        "k_code": "K-009458",
+        "item_seq": "200003109",
+        "print_front": "CFT",
+        "print_back": "분할선"
+    },
+    "213": {
+        "k_code": "K-025469",
+        "item_seq": "200902349",
+        "print_front": "마크",
+        "print_back": "Amosartan 5/100"
+    },
+    "214": {
+        "k_code": "K-031934",
+        "item_seq": "201309501",
+        "print_front": "OZ분할선30",
+        "print_back": "OZ분할선MI"
+    },
+    "215": {
+        "k_code": "K-023804",
+        "item_seq": "200805821",
+        "print_front": "DAPM",
+        "print_back": ""
+    },
+    "216": {
+        "k_code": "K-007749",
+        "item_seq": "199900524",
+        "print_front": "YH",
+        "print_back": "S분할선100"
+    },
+    "217": {
+        "k_code": "K-023599",
+        "item_seq": "200804918",
+        "print_front": "SK",
+        "print_back": "U/S"
+    },
+    "218": {
+        "k_code": "K-038722",
+        "item_seq": "201602112",
+        "print_front": "L1",
+        "print_back": "NVR"
+    },
+    "219": {
+        "k_code": "K-050265",
+        "item_seq": "202000410",
+        "print_front": "PAL 3",
+        "print_back": ""
+    },
+    "220": {
+        "k_code": "K-041293",
+        "item_seq": "201701269",
+        "print_front": "마크",
+        "print_back": ""
+    },
+    "221": {
+        "k_code": "K-041667",
+        "item_seq": "201702373",
+        "print_front": "마크분할선D",
+        "print_back": "30000"
+    },
+    "222": {
+        "k_code": "K-002539",
+        "item_seq": "198802489",
+        "print_front": "ART MMP",
+        "print_back": ""
+    },
+    "223": {
+        "k_code": "K-040342",
+        "item_seq": "201605343",
+        "print_front": "SK",
+        "print_back": "L5"
+    },
+    "224": {
+        "k_code": "K-025886",
+        "item_seq": "200904420",
+        "print_front": "G분할선S",
+        "print_back": "3분할선MS"
+    },
+    "225": {
+        "k_code": "K-029972",
+        "item_seq": "201206684",
+        "print_front": "NVR",
+        "print_back": "LLO"
+    },
+    "226": {
+        "k_code": "K-014733",
+        "item_seq": "200401527",
+        "print_front": "DB",
+        "print_back": ""
+    },
+    "227": {
+        "k_code": "K-023424",
+        "item_seq": "200803516",
+        "print_front": "SEH",
+        "print_back": "NVR"
+    },
+    "228": {
+        "k_code": "K-020251",
+        "item_seq": "200701021",
+        "print_front": "마크 분할선200",
+        "print_back": ""
+    },
+    "229": {
+        "k_code": "K-028360",
+        "item_seq": "201101885",
+        "print_front": "VACH",
+        "print_back": ""
+    },
+    "230": {
+        "k_code": "K-000465",
+        "item_seq": "197800132",
+        "print_front": "YH",
+        "print_back": "PZM"
+    },
+    "231": {
+        "k_code": "K-031543",
+        "item_seq": "201308524",
+        "print_front": "ORTF",
+        "print_back": ""
+    },
+    "232": {
+        "k_code": "K-048531",
+        "item_seq": "201906183",
+        "print_front": "EL",
+        "print_back": "2분할선3"
+    },
+    "233": {
+        "k_code": "K-007820",
+        "item_seq": "199900924",
+        "print_front": "G분할선100",
+        "print_back": "마크"
+    },
+    "234": {
+        "k_code": "K-022465",
+        "item_seq": "200711422",
+        "print_front": "ATV",
+        "print_back": "80"
+    },
+    "235": {
+        "k_code": "K-031428",
+        "item_seq": "201308278",
+        "print_front": "OL 20RO 10",
+        "print_back": ""
+    },
+    "236": {
+        "k_code": "K-034680",
+        "item_seq": "201405403",
+        "print_front": "40/5",
+        "print_back": "YH"
+    },
+    "237": {
+        "k_code": "K-032577",
+        "item_seq": "201400426",
+        "print_front": "OL 20RO 20",
+        "print_back": ""
+    },
+    "238": {
+        "k_code": "K-014280",
+        "item_seq": "200400514",
+        "print_front": "KOLON",
+        "print_back": "MNF 350"
+    },
+    "239": {
+        "k_code": "K-019846",
+        "item_seq": "200610632",
+        "print_front": "마크 25mg3228",
+        "print_back": ""
+    },
+    "240": {
+        "k_code": "K-023719",
+        "item_seq": "200805459",
+        "print_front": "GS",
+        "print_back": "WXG"
+    },
+    "241": {
+        "k_code": "K-046429",
+        "item_seq": "201902302",
+        "print_front": "ΛVR3",
+        "print_back": "INO"
+    },
+    "242": {
+        "k_code": "K-004633",
+        "item_seq": "199400992",
+        "print_front": "KNOLL분할선",
+        "print_back": "ISOPTIN80"
+    },
+    "243": {
+        "k_code": "K-002005",
+        "item_seq": "198701132",
+        "print_front": "P분할선M",
+        "print_back": "☆HANWHA"
+    },
+    "244": {
+        "k_code": "K-038723",
+        "item_seq": "201602113",
+        "print_front": "L11",
+        "print_back": "NVR"
+    },
+    "245": {
+        "k_code": "K-023405",
+        "item_seq": "200803424",
+        "print_front": "TX",
+        "print_back": ""
+    },
+    "246": {
+        "k_code": "K-038262",
+        "item_seq": "201600678",
+        "print_front": "ONT",
+        "print_back": "분할선"
+    },
+    "247": {
+        "k_code": "K-046427",
+        "item_seq": "201902300",
+        "print_front": "ΛVR0",
+        "print_back": "INO"
+    },
+    "248": {
+        "k_code": "K-004489",
+        "item_seq": "199400191",
+        "print_front": "NCT",
+        "print_back": ""
+    },
+    "249": {
+        "k_code": "K-014729",
+        "item_seq": "200401519",
+        "print_front": "마크",
+        "print_back": "C분할선M"
+    },
+    "250": {
+        "k_code": "K-015257",
+        "item_seq": "200402610",
+        "print_front": "SK",
+        "print_back": "AF"
+    },
+    "251": {
+        "k_code": "K-052621",
+        "item_seq": "202005386",
+        "print_front": "",
+        "print_back": ""
+    },
+    "252": {
+        "k_code": "K-026900",
+        "item_seq": "200908500",
+        "print_front": "LCE125",
+        "print_back": ""
+    },
+    "253": {
+        "k_code": "K-022705",
+        "item_seq": "200712981",
+        "print_front": "XR 50",
+        "print_back": ""
+    },
+    "254": {
+        "k_code": "K-052619",
+        "item_seq": "202005384",
+        "print_front": "",
+        "print_back": ""
+    },
+    "255": {
+        "k_code": "K-028864",
+        "item_seq": "201107526",
+        "print_front": "GLM12",
+        "print_back": ""
+    },
+    "256": {
+        "k_code": "K-002159",
+        "item_seq": "198800153",
+        "print_front": "10",
+        "print_back": "분할선"
+    },
+    "257": {
+        "k_code": "K-014317",
+        "item_seq": "200400587",
+        "print_front": "마크",
+        "print_back": "GT2"
+    },
+    "258": {
+        "k_code": "K-000749",
+        "item_seq": "198100126",
+        "print_front": "A분할선mE",
+        "print_back": ""
+    },
+    "259": {
+        "k_code": "K-027733",
+        "item_seq": "201005081",
+        "print_front": "마크 A1",
+        "print_back": ""
+    },
+    "260": {
+        "k_code": "K-038576",
+        "item_seq": "201601582",
+        "print_front": "마크",
+        "print_back": "C I"
+    },
+    "261": {
+        "k_code": "K-024397",
+        "item_seq": "200808168",
+        "print_front": "IDPa",
+        "print_back": ""
+    },
+    "262": {
+        "k_code": "K-035291",
+        "item_seq": "201500533",
+        "print_front": "마크",
+        "print_back": "LO"
+    },
+    "263": {
+        "k_code": "K-019860",
+        "item_seq": "200610658",
+        "print_front": "십자분할선",
+        "print_back": "십자분할선"
+    },
+    "264": {
+        "k_code": "K-012080",
+        "item_seq": "200202193",
+        "print_front": "LX",
+        "print_back": ""
+    },
+    "265": {
+        "k_code": "K-028773",
+        "item_seq": "201106788",
+        "print_front": "JI",
+        "print_back": "L10"
+    },
+    "266": {
+        "k_code": "K-013833",
+        "item_seq": "200307816",
+        "print_front": "G분할선K",
+        "print_back": "CG"
+    },
+    "267": {
+        "k_code": "K-000818",
+        "item_seq": "198200049",
+        "print_front": "450",
+        "print_back": ""
+    },
+    "268": {
+        "k_code": "K-007383",
+        "item_seq": "199803076",
+        "print_front": "HDP SFL",
+        "print_back": ""
+    },
+    "269": {
+        "k_code": "K-037566",
+        "item_seq": "201507070",
+        "print_front": "",
+        "print_back": ""
+    },
+    "270": {
+        "k_code": "K-013007",
+        "item_seq": "200300918",
+        "print_front": "Rs분할선2",
+        "print_back": ""
+    },
+    "271": {
+        "k_code": "K-000654",
+        "item_seq": "198000160",
+        "print_front": "I분할선I",
+        "print_back": ""
+    },
+    "272": {
+        "k_code": "K-020378",
+        "item_seq": "200701725",
+        "print_front": "마크",
+        "print_back": "2872"
+    },
+    "273": {
+        "k_code": "K-018641",
+        "item_seq": "200600543",
+        "print_front": "HSTP",
+        "print_back": "십자분할선"
+    },
+    "274": {
+        "k_code": "K-016251",
+        "item_seq": "200410144",
+        "print_front": "P9분할선P9",
+        "print_back": "마크분할선마크"
+    },
+    "275": {
+        "k_code": "K-004119",
+        "item_seq": "199300848",
+        "print_front": "D-W분할선LXN",
+        "print_back": ""
+    },
+    "276": {
+        "k_code": "K-014279",
+        "item_seq": "200400512",
+        "print_front": "YH",
+        "print_back": "FVS"
+    },
+    "277": {
+        "k_code": "K-038460",
+        "item_seq": "201601196",
+        "print_front": "5R",
+        "print_back": ""
+    },
+    "278": {
+        "k_code": "K-032606",
+        "item_seq": "201400538",
+        "print_front": "W100",
+        "print_back": ""
+    },
+    "279": {
+        "k_code": "K-016554",
+        "item_seq": "200500257",
+        "print_front": "200",
+        "print_back": "Z분할선Y"
+    },
+    "280": {
+        "k_code": "K-024980",
+        "item_seq": "200811252",
+        "print_front": "HM",
+        "print_back": "S분할선4"
+    },
+    "281": {
+        "k_code": "K-046430",
+        "item_seq": "201902303",
+        "print_front": "ΛVR2",
+        "print_back": "INO"
+    },
+    "282": {
+        "k_code": "K-036171",
+        "item_seq": "201502639",
+        "print_front": "HS1",
+        "print_back": "1"
+    },
+    "283": {
+        "k_code": "K-033353",
+        "item_seq": "201402867",
+        "print_front": "DWB",
+        "print_back": "LOX"
+    },
+    "284": {
+        "k_code": "K-042835",
+        "item_seq": "201708219",
+        "print_front": "Super 75--------  마크",
+        "print_back": ""
+    },
+    "285": {
+        "k_code": "K-059525",
+        "item_seq": "202101580",
+        "print_front": "HS12",
+        "print_back": ""
+    },
+    "286": {
+        "k_code": "K-038724",
+        "item_seq": "201602114",
+        "print_front": "LZ",
+        "print_back": "NVR"
+    },
+    "287": {
+        "k_code": "K-009452",
+        "item_seq": "200003086",
+        "print_front": "HMP",
+        "print_back": "SLT 50"
+    },
+    "288": {
+        "k_code": "K-045403",
+        "item_seq": "201900673",
+        "print_front": "마크",
+        "print_back": "PRC 1"
+    },
+    "289": {
+        "k_code": "K-040609",
+        "item_seq": "201606202",
+        "print_front": "Hanmi 99탐스",
+        "print_back": ""
+    },
+    "290": {
+        "k_code": "K-030064",
+        "item_seq": "201206936",
+        "print_front": "Dila 32mgSR",
+        "print_back": ""
+    },
+    "291": {
+        "k_code": "K-025470",
+        "item_seq": "200902350",
+        "print_front": "마크",
+        "print_back": "Amosartan  5/50"
+    },
+    "292": {
+        "k_code": "K-044706",
+        "item_seq": "201804023",
+        "print_front": "KL",
+        "print_back": "M"
+    },
+    "293": {
+        "k_code": "K-001901",
+        "item_seq": "198700707",
+        "print_front": "분할선10",
+        "print_back": ""
+    },
+    "294": {
+        "k_code": "K-036798",
+        "item_seq": "201504199",
+        "print_front": "RISELTON-------- 1.5mg  마크",
+        "print_back": ""
+    },
+    "295": {
+        "k_code": "K-035416",
+        "item_seq": "201500900",
+        "print_front": "SJ",
+        "print_back": "60"
+    },
+    "296": {
+        "k_code": "K-000212",
+        "item_seq": "197300172",
+        "print_front": "LIT",
+        "print_back": ""
+    },
+    "297": {
+        "k_code": "K-008234",
+        "item_seq": "199903365",
+        "print_front": "마크 ANR     25",
+        "print_back": ""
+    },
+    "298": {
+        "k_code": "K-010281",
+        "item_seq": "200009496",
+        "print_front": "STX",
+        "print_back": "K분할선W"
+    },
+    "299": {
+        "k_code": "K-041947",
+        "item_seq": "201705042",
+        "print_front": "AM-P5-100-25",
+        "print_back": ""
+    },
+    "300": {
+        "k_code": "K-029871",
+        "item_seq": "201206335",
+        "print_front": "E분할선M",
+        "print_back": ""
+    },
+    "301": {
+        "k_code": "K-036170",
+        "item_seq": "201502638",
+        "print_front": "HS2",
+        "print_back": "2"
+    },
+    "302": {
+        "k_code": "K-002650",
+        "item_seq": "198900463",
+        "print_front": "D분할선W",
+        "print_back": "200"
+    },
+    "303": {
+        "k_code": "K-023336",
+        "item_seq": "200802979",
+        "print_front": "ARICEPT",
+        "print_back": "5"
+    },
+    "304": {
+        "k_code": "K-029159",
+        "item_seq": "201110095",
+        "print_front": "WY20",
+        "print_back": ""
+    },
+    "305": {
+        "k_code": "K-020877",
+        "item_seq": "200703803",
+        "print_front": "NVR",
+        "print_back": "ECE"
+    },
+    "306": {
+        "k_code": "K-001027",
+        "item_seq": "198300329",
+        "print_front": "YH",
+        "print_back": ""
+    },
+    "307": {
+        "k_code": "K-040333",
+        "item_seq": "201605334",
+        "print_front": "F65",
+        "print_back": "R65"
+    },
+    "308": {
+        "k_code": "K-022176",
+        "item_seq": "200709902",
+        "print_front": "D분할선W",
+        "print_back": "300"
+    },
+    "309": {
+        "k_code": "K-027129",
+        "item_seq": "201001424",
+        "print_front": "7.79",
+        "print_back": ""
+    },
+    "310": {
+        "k_code": "K-010293",
+        "item_seq": "200009625",
+        "print_front": "EBA PSE",
+        "print_back": ""
+    },
+    "311": {
+        "k_code": "K-013829",
+        "item_seq": "200307807",
+        "print_front": "C",
+        "print_back": ""
+    },
+    "312": {
+        "k_code": "K-020834",
+        "item_seq": "200703598",
+        "print_front": "NVR",
+        "print_back": "DXL"
+    },
+    "313": {
+        "k_code": "K-039135",
+        "item_seq": "201603057",
+        "print_front": "INO",
+        "print_back": "4C"
+    },
+    "314": {
+        "k_code": "K-009002",
+        "item_seq": "200001783",
+        "print_front": "KC",
+        "print_back": ""
+    },
+    "315": {
+        "k_code": "K-044529",
+        "item_seq": "201803561",
+        "print_front": "RΛ205",
+        "print_back": "YH"
+    },
+    "316": {
+        "k_code": "K-006940",
+        "item_seq": "199800503",
+        "print_front": "BRΛ200",
+        "print_back": ""
+    },
+    "317": {
+        "k_code": "K-012775",
+        "item_seq": "200300413",
+        "print_front": "Y분할선H",
+        "print_back": "TF"
+    },
+    "318": {
+        "k_code": "K-007325",
+        "item_seq": "199802438",
+        "print_front": "HMP",
+        "print_back": "CL250"
+    },
+    "319": {
+        "k_code": "K-029426",
+        "item_seq": "201201264",
+        "print_front": "DLT",
+        "print_back": "100"
+    },
+    "320": {
+        "k_code": "K-014251",
+        "item_seq": "200400465",
+        "print_front": "",
+        "print_back": ""
+    },
+    "321": {
+        "k_code": "K-030063",
+        "item_seq": "201206935",
+        "print_front": "Dila 16mgSR",
+        "print_back": ""
+    },
+    "322": {
+        "k_code": "K-049590",
+        "item_seq": "201907894",
+        "print_front": "fAr",
+        "print_back": "355"
+    },
+    "323": {
+        "k_code": "K-011648",
+        "item_seq": "200200772",
+        "print_front": "RSN",
+        "print_back": "35mg"
+    },
+    "324": {
+        "k_code": "K-001438",
+        "item_seq": "198500515",
+        "print_front": "SMG",
+        "print_back": "KW"
+    },
+    "325": {
+        "k_code": "K-042045",
+        "item_seq": "201705689",
+        "print_front": "AQ3",
+        "print_back": ""
+    },
+    "326": {
+        "k_code": "K-052715",
+        "item_seq": "202005672",
+        "print_front": "TOP",
+        "print_back": "100"
+    },
+    "327": {
+        "k_code": "K-039048",
+        "item_seq": "201602909",
+        "print_front": "RISELTON-------- 4.5mg 마크",
+        "print_back": ""
+    },
+    "328": {
+        "k_code": "K-051005",
+        "item_seq": "202002062",
+        "print_front": "SK",
+        "print_back": "CR"
+    },
+    "329": {
+        "k_code": "K-016223",
+        "item_seq": "200410072",
+        "print_front": "LCE 100",
+        "print_back": ""
+    },
+    "330": {
+        "k_code": "K-030820",
+        "item_seq": "201305957",
+        "print_front": "C200",
+        "print_back": "UT"
+    },
+    "331": {
+        "k_code": "K-048127",
+        "item_seq": "000048127",
+        "print_front": "",
+        "print_back": ""
+    },
+    "332": {
+        "k_code": "K-023092",
+        "item_seq": "200801350",
+        "print_front": "LPT",
+        "print_back": "10"
+    },
+    "333": {
+        "k_code": "K-031625",
+        "item_seq": "201308619",
+        "print_front": "AX분할선5",
+        "print_back": ""
+    },
+    "334": {
+        "k_code": "K-020582",
+        "item_seq": "200702570",
+        "print_front": "GS5YZ",
+        "print_back": ""
+    },
+    "335": {
+        "k_code": "K-033069",
+        "item_seq": "201402070",
+        "print_front": "DE1",
+        "print_back": "분할선"
+    },
+    "336": {
+        "k_code": "K-018109",
+        "item_seq": "200510973",
+        "print_front": "마크212",
+        "print_back": "15"
+    },
+    "337": {
+        "k_code": "K-000080",
+        "item_seq": "196700060",
+        "print_front": "YH",
+        "print_back": "MB"
+    },
+    "338": {
+        "k_code": "K-003705",
+        "item_seq": "199200870",
+        "print_front": "DTN 180",
+        "print_back": ""
+    },
+    "339": {
+        "k_code": "K-001615",
+        "item_seq": "198600058",
+        "print_front": "H90",
+        "print_back": ""
+    },
+    "340": {
+        "k_code": "K-028081",
+        "item_seq": "201100467",
+        "print_front": "V분할선A",
+        "print_back": "160"
+    },
+    "341": {
+        "k_code": "K-027188",
+        "item_seq": "201001745",
+        "print_front": "H분할선L",
+        "print_back": "SX"
+    },
+    "342": {
+        "k_code": "K-001676",
+        "item_seq": "198600470",
+        "print_front": "IHP MT",
+        "print_back": ""
+    },
+    "343": {
+        "k_code": "K-019161",
+        "item_seq": "200605262",
+        "print_front": "BMS",
+        "print_back": "1611"
+    },
+    "344": {
+        "k_code": "K-017713",
+        "item_seq": "200502639",
+        "print_front": "URM0.1",
+        "print_back": "분할선"
+    },
+    "345": {
+        "k_code": "K-021118",
+        "item_seq": "200704961",
+        "print_front": "LPT",
+        "print_back": "20"
+    },
+    "346": {
+        "k_code": "K-032012",
+        "item_seq": "201309789",
+        "print_front": "D-W100",
+        "print_back": "분할선"
+    },
+    "347": {
+        "k_code": "K-017511",
+        "item_seq": "200502194",
+        "print_front": "OZ2",
+        "print_back": ""
+    },
+    "348": {
+        "k_code": "K-042119",
+        "item_seq": "201706183",
+        "print_front": "ID H5",
+        "print_back": ""
+    },
+    "349": {
+        "k_code": "K-003225",
+        "item_seq": "199100164",
+        "print_front": "ry3",
+        "print_back": ""
+    },
+    "350": {
+        "k_code": "K-016224",
+        "item_seq": "200410073",
+        "print_front": "LCE 150",
+        "print_back": ""
+    },
+    "351": {
+        "k_code": "K-023718",
+        "item_seq": "200805458",
+        "print_front": "GS",
+        "print_back": "3V2"
+    },
+    "352": {
+        "k_code": "K-044332",
+        "item_seq": "201803124",
+        "print_front": "H분할선L",
+        "print_back": "BS"
+    },
+    "353": {
+        "k_code": "K-012137",
+        "item_seq": "200202362",
+        "print_front": "WU",
+        "print_back": "TL"
+    },
+    "354": {
+        "k_code": "K-018224",
+        "item_seq": "200511382",
+        "print_front": "LE",
+        "print_back": "NVR"
+    },
+    "355": {
+        "k_code": "K-038245",
+        "item_seq": "201600576",
+        "print_front": "FD",
+        "print_back": "마크"
+    },
+    "356": {
+        "k_code": "K-015279",
+        "item_seq": "200402671",
+        "print_front": "HM",
+        "print_back": "AM70"
+    },
+    "357": {
+        "k_code": "K-008445",
+        "item_seq": "199906877",
+        "print_front": "",
+        "print_back": ""
+    },
+    "358": {
+        "k_code": "K-023084",
+        "item_seq": "200801332",
+        "print_front": "GL3분할선GL3",
+        "print_back": "분할선"
+    },
+    "359": {
+        "k_code": "K-050264",
+        "item_seq": "202000409",
+        "print_front": "PAL 9",
+        "print_back": ""
+    },
+    "360": {
+        "k_code": "K-035879",
+        "item_seq": "201501889",
+        "print_front": "ISP",
+        "print_back": ""
+    },
+    "361": {
+        "k_code": "K-037366",
+        "item_seq": "201506481",
+        "print_front": "DASE",
+        "print_back": ""
+    },
+    "362": {
+        "k_code": "K-005073",
+        "item_seq": "199500959",
+        "print_front": "GR",
+        "print_back": "분할선"
+    },
+    "363": {
+        "k_code": "K-017008",
+        "item_seq": "200501163",
+        "print_front": "Rs분할선3",
+        "print_back": ""
+    },
+    "364": {
+        "k_code": "K-029206",
+        "item_seq": "201110502",
+        "print_front": "HM",
+        "print_back": "AM+"
+    },
+    "365": {
+        "k_code": "K-015258",
+        "item_seq": "200402617",
+        "print_front": "HMP",
+        "print_back": "분할선"
+    },
+    "366": {
+        "k_code": "K-034056",
+        "item_seq": "201404160",
+        "print_front": "마크50",
+        "print_back": "마크50"
+    },
+    "367": {
+        "k_code": "K-011566",
+        "item_seq": "200200469",
+        "print_front": "YH",
+        "print_back": ""
+    },
+    "368": {
+        "k_code": "K-023252",
+        "item_seq": "200802392",
+        "print_front": "AL분할선S",
+        "print_back": "마크"
+    },
+    "369": {
+        "k_code": "K-011695",
+        "item_seq": "200200939",
+        "print_front": "mi",
+        "print_back": "SLT분할선50"
+    },
+    "370": {
+        "k_code": "K-000114",
+        "item_seq": "197000049",
+        "print_front": "마크분할선ST",
+        "print_back": ""
+    },
+    "371": {
+        "k_code": "K-059524",
+        "item_seq": "202101579",
+        "print_front": "HS11",
+        "print_back": ""
+    },
+    "372": {
+        "k_code": "K-017312",
+        "item_seq": "200501778",
+        "print_front": "OZEX",
+        "print_back": ""
+    },
+    "373": {
+        "k_code": "K-000317",
+        "item_seq": "197500541",
+        "print_front": "S25",
+        "print_back": ""
+    },
+    "374": {
+        "k_code": "K-022377",
+        "item_seq": "200710882",
+        "print_front": "ID L6",
+        "print_back": ""
+    },
+    "375": {
+        "k_code": "K-032668",
+        "item_seq": "201400806",
+        "print_front": "OL 20RO 5",
+        "print_back": ""
+    },
+    "376": {
+        "k_code": "K-030690",
+        "item_seq": "201302982",
+        "print_front": "A2",
+        "print_back": ""
+    },
+    "377": {
+        "k_code": "K-029451",
+        "item_seq": "201201587",
+        "print_front": "LΛYLΛ",
+        "print_back": "분할선"
+    },
+    "378": {
+        "k_code": "K-017258",
+        "item_seq": "200501664",
+        "print_front": "B분할선K",
+        "print_back": "150"
+    },
+    "379": {
+        "k_code": "K-023337",
+        "item_seq": "200802980",
+        "print_front": "ARICEPT",
+        "print_back": "10"
+    },
+    "380": {
+        "k_code": "K-020401",
+        "item_seq": "200701872",
+        "print_front": "YH",
+        "print_back": "L10"
+    },
+    "381": {
+        "k_code": "K-011252",
+        "item_seq": "200108763",
+        "print_front": "D분할선V",
+        "print_back": "NVR"
+    },
+    "382": {
+        "k_code": "K-027093",
+        "item_seq": "201001030",
+        "print_front": "SK",
+        "print_back": "RSV20"
+    },
+    "383": {
+        "k_code": "K-000609",
+        "item_seq": "197900575",
+        "print_front": "마크분할선SD분할선마크분할선SD",
+        "print_back": "마크분할선SD분할선마크분할선SD"
+    },
+    "384": {
+        "k_code": "K-003532",
+        "item_seq": "199102630",
+        "print_front": "ON2",
+        "print_back": ""
+    },
+    "385": {
+        "k_code": "K-012416",
+        "item_seq": "200209427",
+        "print_front": "마크",
+        "print_back": "T분할선4"
+    },
+    "386": {
+        "k_code": "K-041666",
+        "item_seq": "201702372",
+        "print_front": "마크분할선D",
+        "print_back": "7000"
+    },
+    "387": {
+        "k_code": "K-016230",
+        "item_seq": "200410082",
+        "print_front": "마크",
+        "print_back": "VGR50"
+    },
+    "388": {
+        "k_code": "K-002208",
+        "item_seq": "198800426",
+        "print_front": "YH KFC　 500",
+        "print_back": ""
+    },
+    "389": {
+        "k_code": "K-030233",
+        "item_seq": "201207515",
+        "print_front": "LV 250",
+        "print_back": "분할선"
+    },
+    "390": {
+        "k_code": "K-039137",
+        "item_seq": "201603059",
+        "print_front": "INO",
+        "print_back": "5C"
+    },
+    "391": {
+        "k_code": "K-033632",
+        "item_seq": "201403403",
+        "print_front": "H분할선L",
+        "print_back": "AT"
+    },
+    "392": {
+        "k_code": "K-022978",
+        "item_seq": "200800691",
+        "print_front": "마크",
+        "print_back": "분할선"
+    },
+    "393": {
+        "k_code": "K-003544",
+        "item_seq": "199102825",
+        "print_front": "OG33",
+        "print_back": ""
+    },
+    "394": {
+        "k_code": "K-016233",
+        "item_seq": "200410086",
+        "print_front": "ATV",
+        "print_back": "40"
+    },
+    "395": {
+        "k_code": "K-032190",
+        "item_seq": "201310308",
+        "print_front": "10",
+        "print_back": "1428"
+    },
+    "396": {
+        "k_code": "K-015190",
+        "item_seq": "200402452",
+        "print_front": "",
+        "print_back": "SK분할선5"
+    },
+    "397": {
+        "k_code": "K-006563",
+        "item_seq": "199702182",
+        "print_front": "SK",
+        "print_back": "J200"
+    },
+    "398": {
+        "k_code": "K-037298",
+        "item_seq": "201506120",
+        "print_front": "TL 75",
+        "print_back": "MI"
+    },
+    "399": {
+        "k_code": "K-017714",
+        "item_seq": "200502640",
+        "print_front": "URM 0.2",
+        "print_back": "분할선"
+    },
+    "400": {
+        "k_code": "K-059586",
+        "item_seq": "202101646",
+        "print_front": "NB6",
+        "print_back": ""
+    },
+    "401": {
+        "k_code": "K-031545",
+        "item_seq": "201308526",
+        "print_front": "ORTH",
+        "print_back": ""
+    },
+    "402": {
+        "k_code": "K-031357",
+        "item_seq": "201308005",
+        "print_front": "CKD",
+        "print_back": "D분할선5"
+    },
+    "403": {
+        "k_code": "K-019699",
+        "item_seq": "200608151",
+        "print_front": "SK",
+        "print_back": "717"
+    },
+    "404": {
+        "k_code": "K-046428",
+        "item_seq": "201902301",
+        "print_front": "ΛVR1",
+        "print_back": "INO"
+    },
+    "405": {
+        "k_code": "K-038712",
+        "item_seq": "201602091",
+        "print_front": "DX",
+        "print_back": "3"
+    },
+    "406": {
+        "k_code": "K-025728",
+        "item_seq": "200903974",
+        "print_front": "C분할선16",
+        "print_back": "CKD"
+    },
+    "407": {
+        "k_code": "K-042120",
+        "item_seq": "201706184",
+        "print_front": "ID H3",
+        "print_back": ""
+    },
+    "408": {
+        "k_code": "K-005068",
+        "item_seq": "199500901",
+        "print_front": "ME",
+        "print_back": ""
+    },
+    "409": {
+        "k_code": "K-029768",
+        "item_seq": "201205950",
+        "print_front": "MZ분할선15",
+        "print_back": "HDP"
+    },
+    "410": {
+        "k_code": "K-005850",
+        "item_seq": "199602669",
+        "print_front": "마크",
+        "print_back": "분할선"
+    },
+    "411": {
+        "k_code": "K-049428",
+        "item_seq": "201907607",
+        "print_front": "PK분할선CR",
+        "print_back": "마크"
+    },
+    "412": {
+        "k_code": "K-025000",
+        "item_seq": "200811406",
+        "print_front": "AML-10",
+        "print_back": "마크"
+    },
+    "413": {
+        "k_code": "K-031998",
+        "item_seq": "201309738",
+        "print_front": "DWP",
+        "print_back": "분할선"
+    },
+    "414": {
+        "k_code": "K-012246",
+        "item_seq": "200202888",
+        "print_front": "A-007   5",
+        "print_back": ""
+    },
+    "415": {
+        "k_code": "K-019963",
+        "item_seq": "200611121",
+        "print_front": "H분할선M",
+        "print_back": "T10"
+    },
+    "416": {
+        "k_code": "K-034208",
+        "item_seq": "201404480",
+        "print_front": "OU",
+        "print_back": "분할선"
+    },
+    "417": {
+        "k_code": "K-042269",
+        "item_seq": "201706671",
+        "print_front": "마크분할선S",
+        "print_back": "25"
+    },
+    "418": {
+        "k_code": "K-044761",
+        "item_seq": "201804237",
+        "print_front": "B분할선K",
+        "print_back": "02"
+    },
+    "419": {
+        "k_code": "K-028073",
+        "item_seq": "201100373",
+        "print_front": "5",
+        "print_back": "4215"
+    },
+    "420": {
+        "k_code": "K-012207",
+        "item_seq": "200202791",
+        "print_front": "DNT",
+        "print_back": ""
+    },
+    "421": {
+        "k_code": "K-001906",
+        "item_seq": "198700733",
+        "print_front": "30",
+        "print_back": "마크"
+    },
+    "422": {
+        "k_code": "K-040099",
+        "item_seq": "201604622",
+        "print_front": "L31",
+        "print_back": "마크"
+    },
+    "423": {
+        "k_code": "K-007567",
+        "item_seq": "199806740",
+        "print_front": "T150",
+        "print_back": ""
+    },
+    "424": {
+        "k_code": "K-001732",
+        "item_seq": "198601052",
+        "print_front": "W분할선2",
+        "print_back": "마크"
+    },
+    "425": {
+        "k_code": "K-037933",
+        "item_seq": "201508016",
+        "print_front": "마크",
+        "print_back": ""
+    },
+    "426": {
+        "k_code": "K-028588",
+        "item_seq": "201104026",
+        "print_front": "B분할선M",
+        "print_back": "K분할선1"
+    },
+    "427": {
+        "k_code": "K-017525",
+        "item_seq": "200502216",
+        "print_front": "DXL 4",
+        "print_back": ""
+    },
+    "428": {
+        "k_code": "K-033830",
+        "item_seq": "201403745",
+        "print_front": "마크",
+        "print_back": "S 25"
+    },
+    "429": {
+        "k_code": "K-033026",
+        "item_seq": "201401986",
+        "print_front": "마크분할선TH4",
+        "print_back": "분할선"
+    },
+    "430": {
+        "k_code": "K-044496",
+        "item_seq": "201803499",
+        "print_front": "BVD",
+        "print_back": ""
+    },
+    "431": {
+        "k_code": "K-012266",
+        "item_seq": "200202994",
+        "print_front": "WELL100",
+        "print_back": "분할선"
+    },
+    "432": {
+        "k_code": "K-006273",
+        "item_seq": "199701147",
+        "print_front": "6",
+        "print_back": "십자분할선"
+    },
+    "433": {
+        "k_code": "K-014587",
+        "item_seq": "200401254",
+        "print_front": "Rs분할선1",
+        "print_back": ""
+    },
+    "434": {
+        "k_code": "K-004285",
+        "item_seq": "199302187",
+        "print_front": "SK 020",
+        "print_back": ""
+    },
+    "435": {
+        "k_code": "K-036784",
+        "item_seq": "201504175",
+        "print_front": "마크",
+        "print_back": "L8"
+    },
+    "436": {
+        "k_code": "K-008899",
+        "item_seq": "200001292",
+        "print_front": "RSN",
+        "print_back": "5mg"
+    },
+    "437": {
+        "k_code": "K-052620",
+        "item_seq": "202005385",
+        "print_front": "",
+        "print_back": ""
+    },
+    "438": {
+        "k_code": "K-036172",
+        "item_seq": "201502640",
+        "print_front": "HS3",
+        "print_back": "3"
+    },
+    "439": {
+        "k_code": "K-026545",
+        "item_seq": "200905916",
+        "print_front": "",
+        "print_back": ""
+    },
+    "440": {
+        "k_code": "K-031214",
+        "item_seq": "201307583",
+        "print_front": "SK분할선FET",
+        "print_back": "40"
+    },
+    "441": {
+        "k_code": "K-023807",
+        "item_seq": "200805842",
+        "print_front": "DASM",
+        "print_back": ""
+    },
+    "442": {
+        "k_code": "K-042044",
+        "item_seq": "201705688",
+        "print_front": "AQ1",
+        "print_back": ""
+    },
+    "443": {
+        "k_code": "K-012420",
+        "item_seq": "200209622",
+        "print_front": "LILLY4112",
+        "print_back": ""
+    },
+    "444": {
+        "k_code": "K-003105",
+        "item_seq": "199001352",
+        "print_front": "OR",
+        "print_back": "300"
+    },
+    "445": {
+        "k_code": "K-016193",
+        "item_seq": "200409933",
+        "print_front": "U",
+        "print_back": "286분할선286"
+    },
+    "446": {
+        "k_code": "K-033829",
+        "item_seq": "201403744",
+        "print_front": "마크",
+        "print_back": "S 10"
+    },
+    "447": {
+        "k_code": "K-023594",
+        "item_seq": "200804912",
+        "print_front": "KK",
+        "print_back": "PI"
+    },
+    "448": {
+        "k_code": "K-007146",
+        "item_seq": "199801581",
+        "print_front": "OR",
+        "print_back": "150"
+    },
+    "449": {
+        "k_code": "K-023720",
+        "item_seq": "200805460",
+        "print_front": "GS",
+        "print_back": "5CC"
+    },
+    "450": {
+        "k_code": "K-024162",
+        "item_seq": "200807205",
+        "print_front": "C분할선8",
+        "print_back": "CKD"
+    },
+    "451": {
+        "k_code": "K-051672",
+        "item_seq": "202003220",
+        "print_front": "31",
+        "print_back": ""
+    },
+    "452": {
+        "k_code": "K-025691",
+        "item_seq": "200903830",
+        "print_front": "m",
+        "print_back": "2.5"
+    },
+    "453": {
+        "k_code": "K-050266",
+        "item_seq": "202000411",
+        "print_front": "PAL 6",
+        "print_back": ""
+    },
+    "454": {
+        "k_code": "K-003611",
+        "item_seq": "199200248",
+        "print_front": "DPC",
+        "print_back": ""
+    },
+    "455": {
+        "k_code": "K-044818",
+        "item_seq": "201804347",
+        "print_front": "DW",
+        "print_back": "S분할선1"
+    },
+    "456": {
+        "k_code": "K-027127",
+        "item_seq": "201001421",
+        "print_front": "마크",
+        "print_back": "P2"
+    },
+    "457": {
+        "k_code": "K-027436",
+        "item_seq": "201003206",
+        "print_front": "AD",
+        "print_back": "INO"
+    },
+    "458": {
+        "k_code": "K-025033",
+        "item_seq": "200811608",
+        "print_front": "717",
+        "print_back": ""
+    },
+    "459": {
+        "k_code": "K-006169",
+        "item_seq": "199700692",
+        "print_front": "T",
+        "print_back": "분할선"
+    },
+    "460": {
+        "k_code": "K-000118",
+        "item_seq": "197000068",
+        "print_front": "LDI분할선LDI",
+        "print_back": "분할선"
+    },
+    "461": {
+        "k_code": "K-055721",
+        "item_seq": "200906540",
+        "print_front": "마크",
+        "print_back": "L4"
+    },
+    "462": {
+        "k_code": "K-000168",
+        "item_seq": "197200160",
+        "print_front": "FR분할선FR",
+        "print_back": ""
+    },
+    "463": {
+        "k_code": "K-049277",
+        "item_seq": "201907378",
+        "print_front": "ADP1",
+        "print_back": ""
+    },
+    "464": {
+        "k_code": "K-011250",
+        "item_seq": "200108739",
+        "print_front": "분할선",
+        "print_back": "분할선"
+    },
+    "465": {
+        "k_code": "K-041657",
+        "item_seq": "201702347",
+        "print_front": "IDV",
+        "print_back": ""
+    },
+    "466": {
+        "k_code": "K-014084",
+        "item_seq": "200400166",
+        "print_front": "GL1분할선GL1",
+        "print_back": "분할선"
+    },
+    "467": {
+        "k_code": "K-003868",
+        "item_seq": "199202071",
+        "print_front": "HMP",
+        "print_back": "MCL분할선"
+    },
+    "468": {
+        "k_code": "K-004913",
+        "item_seq": "199500043",
+        "print_front": "마크",
+        "print_back": ""
+    },
+    "469": {
+        "k_code": "K-005208",
+        "item_seq": "199501832",
+        "print_front": "M2",
+        "print_back": ""
+    },
+    "470": {
+        "k_code": "K-043780",
+        "item_seq": "201801860",
+        "print_front": "ESDU 20",
+        "print_back": ""
+    },
+    "471": {
+        "k_code": "K-040622",
+        "item_seq": "201606254",
+        "print_front": "180",
+        "print_back": ""
+    },
+    "472": {
+        "k_code": "K-028424",
+        "item_seq": "201102769",
+        "print_front": "FVTH",
+        "print_back": ""
+    },
+    "473": {
+        "k_code": "K-051115",
+        "item_seq": "202002246",
+        "print_front": "S50",
+        "print_back": "분할선"
+    },
+    "474": {
+        "k_code": "K-030240",
+        "item_seq": "201207538",
+        "print_front": "LT분할선250",
+        "print_back": ""
+    },
+    "475": {
+        "k_code": "K-031365",
+        "item_seq": "201308048",
+        "print_front": "NTL",
+        "print_back": "10"
+    },
+    "476": {
+        "k_code": "K-017506",
+        "item_seq": "200502189",
+        "print_front": "OZ1",
+        "print_back": "분할선"
+    },
+    "477": {
+        "k_code": "K-035208",
+        "item_seq": "201500367",
+        "print_front": "257",
+        "print_back": ""
+    },
+    "478": {
+        "k_code": "K-052618",
+        "item_seq": "202005383",
+        "print_front": "",
+        "print_back": ""
+    },
+    "479": {
+        "k_code": "K-018141",
+        "item_seq": "200511051",
+        "print_front": "마크HF",
+        "print_back": ""
+    },
+    "480": {
+        "k_code": "K-034460",
+        "item_seq": "201404976",
+        "print_front": "마크",
+        "print_back": "LZ"
+    },
+    "481": {
+        "k_code": "K-011524",
+        "item_seq": "200200366",
+        "print_front": "ha",
+        "print_back": ""
+    },
+    "482": {
+        "k_code": "K-021904",
+        "item_seq": "200708762",
+        "print_front": "SIMVAST C R",
+        "print_back": ""
+    },
+    "483": {
+        "k_code": "K-028423",
+        "item_seq": "201102768",
+        "print_front": "FVTS",
+        "print_back": ""
+    },
+    "484": {
+        "k_code": "K-043670",
+        "item_seq": "201801645",
+        "print_front": "MZ",
+        "print_back": "분할선"
+    },
+    "485": {
+        "k_code": "K-008834",
+        "item_seq": "200000796",
+        "print_front": "ARICEPT",
+        "print_back": "5"
+    },
+    "486": {
+        "k_code": "K-005430",
+        "item_seq": "199600048",
+        "print_front": "S분할선P",
+        "print_back": "LDS"
+    },
+    "487": {
+        "k_code": "K-022846",
+        "item_seq": "200713803",
+        "print_front": "NVR",
+        "print_back": "FB"
+    },
+    "488": {
+        "k_code": "K-022318",
+        "item_seq": "200710607",
+        "print_front": "마크",
+        "print_back": ""
+    },
+    "489": {
+        "k_code": "K-037492",
+        "item_seq": "201506799",
+        "print_front": "20",
+        "print_back": "D분할선A"
+    },
+    "490": {
+        "k_code": "K-020966",
+        "item_seq": "200704307",
+        "print_front": "마크",
+        "print_back": ""
+    },
+    "491": {
+        "k_code": "K-003157",
+        "item_seq": "199002095",
+        "print_front": "마크",
+        "print_back": ""
+    },
+    "492": {
+        "k_code": "K-014853",
+        "item_seq": "200401743",
+        "print_front": "SJ분할선SJ",
+        "print_back": "분할선"
+    },
+    "493": {
+        "k_code": "K-054859",
+        "item_seq": "200209641",
+        "print_front": "GSEE1",
+        "print_back": "50"
+    },
+    "494": {
+        "k_code": "K-051669",
+        "item_seq": "202003217",
+        "print_front": "62",
+        "print_back": ""
+    },
+    "495": {
+        "k_code": "K-004632",
+        "item_seq": "199400991",
+        "print_front": "마크",
+        "print_back": "40"
+    },
+    "496": {
+        "k_code": "K-041691",
+        "item_seq": "201702409",
+        "print_front": "TN",
+        "print_back": "1016"
+    },
+    "497": {
+        "k_code": "K-024468",
+        "item_seq": "200808451",
+        "print_front": "A-006  2",
+        "print_back": ""
+    },
+    "498": {
+        "k_code": "K-023957",
+        "item_seq": "200806454",
+        "print_front": "DIA 30",
+        "print_back": "마크"
+    },
+    "499": {
+        "k_code": "K-005949",
+        "item_seq": "199604657",
+        "print_front": "50",
+        "print_back": ""
+    },
+    "500": {
+        "k_code": "K-016804",
+        "item_seq": "200500715",
+        "print_front": "D-W",
+        "print_back": "75"
+    },
+    "501": {
+        "k_code": "K-005091",
+        "item_seq": "199501073",
+        "print_front": "BS 3",
+        "print_back": "INO"
+    },
+    "502": {
+        "k_code": "K-023779",
+        "item_seq": "200805735",
+        "print_front": "CZP",
+        "print_back": ""
+    },
+    "503": {
+        "k_code": "K-037284",
+        "item_seq": "201506005",
+        "print_front": "DSCL30",
+        "print_back": ""
+    },
+    "504": {
+        "k_code": "K-000576",
+        "item_seq": "197900284",
+        "print_front": "CIMET 300",
+        "print_back": ""
+    },
+    "505": {
+        "k_code": "K-007060",
+        "item_seq": "199801203",
+        "print_front": "CNL10",
+        "print_back": ""
+    },
+    "506": {
+        "k_code": "K-016250",
+        "item_seq": "200410143",
+        "print_front": "P8분할선P8",
+        "print_back": "마크분할선마크"
+    },
+    "507": {
+        "k_code": "K-042014",
+        "item_seq": "201705498",
+        "print_front": "B분할선S",
+        "print_back": "MI"
+    },
+    "508": {
+        "k_code": "K-018188",
+        "item_seq": "200511263",
+        "print_front": "312",
+        "print_back": ""
+    },
+    "509": {
+        "k_code": "K-033208",
+        "item_seq": "201402463",
+        "print_front": "20S",
+        "print_back": ""
+    },
+    "510": {
+        "k_code": "K-031999",
+        "item_seq": "201309741",
+        "print_front": "ZY",
+        "print_back": "75"
+    },
+    "511": {
+        "k_code": "K-030005",
+        "item_seq": "201206782",
+        "print_front": "C51",
+        "print_back": ""
+    },
+    "512": {
+        "k_code": "K-017057",
+        "item_seq": "200501241",
+        "print_front": "AC",
+        "print_back": ""
+    },
+    "513": {
+        "k_code": "K-013684",
+        "item_seq": "200302627",
+        "print_front": "KCF",
+        "print_back": "분할선"
+    },
+    "514": {
+        "k_code": "K-009459",
+        "item_seq": "200003110",
+        "print_front": "HanmiEXP50",
+        "print_back": ""
+    },
+    "515": {
+        "k_code": "K-011253",
+        "item_seq": "200108764",
+        "print_front": "DX분할선DX",
+        "print_back": "NVR"
+    },
+    "516": {
+        "k_code": "K-059585",
+        "item_seq": "202101645",
+        "print_front": "NB5",
+        "print_back": ""
+    },
+    "517": {
+        "k_code": "K-007143",
+        "item_seq": "199801575",
+        "print_front": "T",
+        "print_back": "십자분할선"
+    },
+    "518": {
+        "k_code": "K-020967",
+        "item_seq": "200704308",
+        "print_front": "마크",
+        "print_back": ""
+    },
+    "519": {
+        "k_code": "K-026818",
+        "item_seq": "200907799",
+        "print_front": "SK",
+        "print_back": "G분할선C"
+    },
+    "520": {
+        "k_code": "K-024057",
+        "item_seq": "200806846",
+        "print_front": "LEF",
+        "print_back": "10"
+    },
+    "521": {
+        "k_code": "K-003708",
+        "item_seq": "199200883",
+        "print_front": "5분할선HMP",
+        "print_back": "5분할선마크"
+    },
+    "522": {
+        "k_code": "K-040215",
+        "item_seq": "201604907",
+        "print_front": "60T",
+        "print_back": ""
+    },
+    "523": {
+        "k_code": "K-022319",
+        "item_seq": "200710608",
+        "print_front": "마크",
+        "print_back": ""
+    },
+    "524": {
+        "k_code": "K-029725",
+        "item_seq": "201205537",
+        "print_front": "ULTERSM",
+        "print_back": ""
+    },
+    "525": {
+        "k_code": "K-001460",
+        "item_seq": "198500629",
+        "print_front": "B분할선2",
+        "print_back": "마크"
+    },
+    "526": {
+        "k_code": "K-007061",
+        "item_seq": "199801206",
+        "print_front": "E분할선B",
+        "print_back": "분할선"
+    },
+    "527": {
+        "k_code": "K-016394",
+        "item_seq": "200410904",
+        "print_front": "HMRX",
+        "print_back": ""
+    },
+    "528": {
+        "k_code": "K-000122",
+        "item_seq": "197000079",
+        "print_front": "E10",
+        "print_back": "마크"
+    },
+    "529": {
+        "k_code": "K-015530",
+        "item_seq": "200403137",
+        "print_front": "HS",
+        "print_back": "200"
+    },
+    "530": {
+        "k_code": "K-028641",
+        "item_seq": "201104578",
+        "print_front": "90T",
+        "print_back": ""
+    },
+    "531": {
+        "k_code": "K-013905",
+        "item_seq": "200308343",
+        "print_front": "SCHWARZPHARMA",
+        "print_back": "IR분할선40"
+    },
+    "532": {
+        "k_code": "K-011327",
+        "item_seq": "200109233",
+        "print_front": "GAD20",
+        "print_back": ""
+    },
+    "533": {
+        "k_code": "K-037086",
+        "item_seq": "201505105",
+        "print_front": "OH",
+        "print_back": ""
+    },
+    "534": {
+        "k_code": "K-033876",
+        "item_seq": "201403835",
+        "print_front": "TL",
+        "print_back": "5"
+    },
+    "535": {
+        "k_code": "K-035766",
+        "item_seq": "201501658",
+        "print_front": "EO05",
+        "print_back": "CKD"
+    },
+    "536": {
+        "k_code": "K-043934",
+        "item_seq": "201802236",
+        "print_front": "SJ",
+        "print_back": "TS6"
+    },
+    "537": {
+        "k_code": "K-000115",
+        "item_seq": "197000050",
+        "print_front": "GS분할선FE7",
+        "print_back": ""
+    },
+    "538": {
+        "k_code": "K-031089",
+        "item_seq": "201307123",
+        "print_front": "GITH",
+        "print_back": ""
+    },
+    "539": {
+        "k_code": "K-024979",
+        "item_seq": "200811251",
+        "print_front": "HM",
+        "print_back": "S분할선2"
+    },
+    "540": {
+        "k_code": "K-033046",
+        "item_seq": "201402038",
+        "print_front": "HD",
+        "print_back": "20"
+    },
+    "541": {
+        "k_code": "K-014224",
+        "item_seq": "200400392",
+        "print_front": "CLP",
+        "print_back": "188"
+    },
+    "542": {
+        "k_code": "K-028130",
+        "item_seq": "201100795",
+        "print_front": "O20",
+        "print_back": "마크"
+    },
+    "543": {
+        "k_code": "K-001464",
+        "item_seq": "198500636",
+        "print_front": "명인CP50",
+        "print_back": ""
+    },
+    "544": {
+        "k_code": "K-040335",
+        "item_seq": "201605336",
+        "print_front": "F31",
+        "print_back": "R31"
+    },
+    "545": {
+        "k_code": "K-016222",
+        "item_seq": "200410071",
+        "print_front": "LCE50",
+        "print_back": ""
+    },
+    "546": {
+        "k_code": "K-016550",
+        "item_seq": "200500253",
+        "print_front": "DA",
+        "print_back": "OP분할선5"
+    },
+    "547": {
+        "k_code": "K-000488",
+        "item_seq": "197800303",
+        "print_front": "MET",
+        "print_back": "십자분할선"
+    },
+    "548": {
+        "k_code": "K-007381",
+        "item_seq": "199803062",
+        "print_front": "KM",
+        "print_back": ""
+    },
+    "549": {
+        "k_code": "K-007055",
+        "item_seq": "199801193",
+        "print_front": "S분할선P",
+        "print_back": "마크"
+    },
+    "550": {
+        "k_code": "K-028650",
+        "item_seq": "201104726",
+        "print_front": "TNE",
+        "print_back": ""
+    },
+    "551": {
+        "k_code": "K-015759",
+        "item_seq": "200403655",
+        "print_front": "RM",
+        "print_back": "UT"
+    },
+    "552": {
+        "k_code": "K-015524",
+        "item_seq": "200403111",
+        "print_front": "LOX",
+        "print_back": ""
+    },
+    "553": {
+        "k_code": "K-016555",
+        "item_seq": "200500258",
+        "print_front": "100",
+        "print_back": "Z분할선Y"
+    },
+    "554": {
+        "k_code": "K-024143",
+        "item_seq": "200807091",
+        "print_front": "C5",
+        "print_back": ""
+    },
+    "555": {
+        "k_code": "K-007821",
+        "item_seq": "199900925",
+        "print_front": "G50",
+        "print_back": "마크"
+    },
+    "556": {
+        "k_code": "K-008501",
+        "item_seq": "199907135",
+        "print_front": "",
+        "print_back": ""
+    },
+    "557": {
+        "k_code": "K-013020",
+        "item_seq": "200300956",
+        "print_front": "HN",
+        "print_back": "분할선"
+    },
+    "558": {
+        "k_code": "K-022604",
+        "item_seq": "200712252",
+        "print_front": "BR",
+        "print_back": "분할선"
+    },
+    "559": {
+        "k_code": "K-038459",
+        "item_seq": "201601195",
+        "print_front": "10R",
+        "print_back": ""
+    },
+    "560": {
+        "k_code": "K-029760",
+        "item_seq": "201205933",
+        "print_front": "마크",
+        "print_back": "분할선"
+    },
+    "561": {
+        "k_code": "K-013900",
+        "item_seq": "200308324",
+        "print_front": "M분할선",
+        "print_back": "1분할선0"
+    },
+    "562": {
+        "k_code": "K-004478",
+        "item_seq": "199400114",
+        "print_front": "B분할선M",
+        "print_back": "D분할선5"
+    },
+    "563": {
+        "k_code": "K-018949",
+        "item_seq": "200603850",
+        "print_front": "GS CL2",
+        "print_back": "5"
+    },
+    "564": {
+        "k_code": "K-007955",
+        "item_seq": "199901718",
+        "print_front": "BCL",
+        "print_back": "분할선"
+    },
+    "565": {
+        "k_code": "K-030936",
+        "item_seq": "201306404",
+        "print_front": "BL",
+        "print_back": ""
+    },
+    "566": {
+        "k_code": "K-007645",
+        "item_seq": "199900203",
+        "print_front": "291분할선291",
+        "print_back": ""
+    },
+    "567": {
+        "k_code": "K-023248",
+        "item_seq": "200802337",
+        "print_front": "",
+        "print_back": ""
+    },
+    "568": {
+        "k_code": "K-051116",
+        "item_seq": "202002247",
+        "print_front": "M 50",
+        "print_back": ""
+    },
+    "569": {
+        "k_code": "K-004835",
+        "item_seq": "199403106",
+        "print_front": "TEVA20",
+        "print_back": ""
+    },
+    "570": {
+        "k_code": "K-041692",
+        "item_seq": "201702410",
+        "print_front": "TN",
+        "print_back": "108"
+    },
+    "571": {
+        "k_code": "K-029667",
+        "item_seq": "201205253",
+        "print_front": "마크203",
+        "print_back": "분할선"
+    },
+    "572": {
+        "k_code": "K-020665",
+        "item_seq": "200702965",
+        "print_front": "MP5",
+        "print_back": "분할선"
+    },
+    "573": {
+        "k_code": "K-013536",
+        "item_seq": "200302141",
+        "print_front": "HS",
+        "print_back": ""
+    },
+    "574": {
+        "k_code": "K-038152",
+        "item_seq": "201600298",
+        "print_front": "CLT",
+        "print_back": "분할선"
+    },
+    "575": {
+        "k_code": "K-016645",
+        "item_seq": "200500421",
+        "print_front": "ID",
+        "print_back": "100"
+    },
+    "576": {
+        "k_code": "K-001715",
+        "item_seq": "198600903",
+        "print_front": "KE20",
+        "print_back": "분할선"
+    },
+    "577": {
+        "k_code": "K-019867",
+        "item_seq": "200610680",
+        "print_front": "A1",
+        "print_back": "십자분할선"
+    },
+    "578": {
+        "k_code": "K-047487",
+        "item_seq": "201903849",
+        "print_front": "DM",
+        "print_back": "10"
+    },
+    "579": {
+        "k_code": "K-007145",
+        "item_seq": "199801580",
+        "print_front": "THI",
+        "print_back": ""
+    },
+    "580": {
+        "k_code": "K-011705",
+        "item_seq": "200200963",
+        "print_front": "8분할선",
+        "print_back": ""
+    },
+    "581": {
+        "k_code": "K-037490",
+        "item_seq": "201506797",
+        "print_front": "5",
+        "print_back": "D분할선A"
+    },
+    "582": {
+        "k_code": "K-023411",
+        "item_seq": "200803449",
+        "print_front": "HM",
+        "print_back": "LB"
+    },
+    "583": {
+        "k_code": "K-006129",
+        "item_seq": "199700555",
+        "print_front": "ID",
+        "print_back": "분할선"
+    },
+    "584": {
+        "k_code": "K-004336",
+        "item_seq": "199302799",
+        "print_front": "마크",
+        "print_back": "M"
+    },
+    "585": {
+        "k_code": "K-003102",
+        "item_seq": "199001340",
+        "print_front": "마크",
+        "print_back": "마크"
+    },
+    "586": {
+        "k_code": "K-027688",
+        "item_seq": "201004754",
+        "print_front": "10MG",
+        "print_back": "4759"
+    },
+    "587": {
+        "k_code": "K-016912",
+        "item_seq": "200500974",
+        "print_front": "OWH",
+        "print_back": "10"
+    },
+    "588": {
+        "k_code": "K-036954",
+        "item_seq": "201504770",
+        "print_front": "마크277",
+        "print_back": "4"
+    },
+    "589": {
+        "k_code": "K-039150",
+        "item_seq": "201603072",
+        "print_front": "A10",
+        "print_back": "F6"
+    },
+    "590": {
+        "k_code": "K-028468",
+        "item_seq": "201103424",
+        "print_front": "PITA",
+        "print_back": "분할선"
+    },
+    "591": {
+        "k_code": "K-040339",
+        "item_seq": "201605340",
+        "print_front": "",
+        "print_back": ""
+    },
+    "592": {
+        "k_code": "K-018114",
+        "item_seq": "200510991",
+        "print_front": "",
+        "print_back": ""
+    },
+    "593": {
+        "k_code": "K-024003",
+        "item_seq": "200806668",
+        "print_front": "마크50",
+        "print_back": "마크50"
+    },
+    "594": {
+        "k_code": "K-006274",
+        "item_seq": "199701154",
+        "print_front": "SERVIER",
+        "print_back": "십자분할선"
+    },
+    "595": {
+        "k_code": "K-038461",
+        "item_seq": "201601197",
+        "print_front": "20R",
+        "print_back": ""
+    },
+    "596": {
+        "k_code": "K-001451",
+        "item_seq": "198500618",
+        "print_front": "HLP",
+        "print_back": "분할선"
+    },
+    "597": {
+        "k_code": "K-003049",
+        "item_seq": "199000893",
+        "print_front": "HFC",
+        "print_back": "5"
+    },
+    "598": {
+        "k_code": "K-019861",
+        "item_seq": "200610660",
+        "print_front": "마크",
+        "print_back": "NV분할선5"
+    },
+    "599": {
+        "k_code": "K-052716",
+        "item_seq": "202005673",
+        "print_front": "TOP",
+        "print_back": "25"
+    },
+    "600": {
+        "k_code": "K-013543",
+        "item_seq": "200302155",
+        "print_front": "Fa분할선Ch",
+        "print_back": "분할선"
+    },
+    "601": {
+        "k_code": "K-034110",
+        "item_seq": "201404293",
+        "print_front": "T 2",
+        "print_back": "분할선"
+    },
+    "602": {
+        "k_code": "K-011084",
+        "item_seq": "200103519",
+        "print_front": "T41",
+        "print_back": ""
+    },
+    "603": {
+        "k_code": "K-025854",
+        "item_seq": "200904353",
+        "print_front": "C-I",
+        "print_back": "분할선"
+    },
+    "604": {
+        "k_code": "K-005556",
+        "item_seq": "199600581",
+        "print_front": "YH",
+        "print_back": "V-C"
+    },
+    "605": {
+        "k_code": "K-012758",
+        "item_seq": "200300376",
+        "print_front": "J분할선W",
+        "print_back": ""
+    },
+    "606": {
+        "k_code": "K-011846",
+        "item_seq": "200201482",
+        "print_front": "TACENOL  ER",
+        "print_back": ""
+    },
+    "607": {
+        "k_code": "K-010446",
+        "item_seq": "200100586",
+        "print_front": "1000",
+        "print_back": "Y분할선H"
+    },
+    "608": {
+        "k_code": "K-017040",
+        "item_seq": "200501216",
+        "print_front": "I분할선Y",
+        "print_back": "CLT"
+    },
+    "609": {
+        "k_code": "K-004378",
+        "item_seq": "199303108",
+        "print_front": "TYLENOL",
+        "print_back": "500"
+    },
+    "610": {
+        "k_code": "K-006977",
+        "item_seq": "199800767",
+        "print_front": "TRAMOLER",
+        "print_back": ""
+    },
+    "611": {
+        "k_code": "K-037029",
+        "item_seq": "201504984",
+        "print_front": "GHC",
+        "print_back": ""
+    },
+    "612": {
+        "k_code": "K-029066",
+        "item_seq": "201109733",
+        "print_front": "MINOL·FT·",
+        "print_back": "MINOL·FT·"
+    },
+    "613": {
+        "k_code": "K-037446",
+        "item_seq": "201506687",
+        "print_front": "OV",
+        "print_back": "마크"
+    },
+    "614": {
+        "k_code": "K-012212",
+        "item_seq": "200202802",
+        "print_front": "쿨넥신 쿨넥신",
+        "print_back": ""
+    },
+    "615": {
+        "k_code": "K-000372",
+        "item_seq": "197600539",
+        "print_front": "A",
+        "print_back": "A"
+    },
+    "616": {
+        "k_code": "K-014409",
+        "item_seq": "200400872",
+        "print_front": "ΛL",
+        "print_back": ""
+    },
+    "617": {
+        "k_code": "K-002596",
+        "item_seq": "198900129",
+        "print_front": "ADCAL",
+        "print_back": "분할선"
+    },
+    "618": {
+        "k_code": "K-000112",
+        "item_seq": "197000037",
+        "print_front": "Aro-G",
+        "print_back": "Aro-G"
+    },
+    "619": {
+        "k_code": "K-001029",
+        "item_seq": "198300343",
+        "print_front": "마크",
+        "print_back": "BR4"
+    },
+    "620": {
+        "k_code": "K-041267",
+        "item_seq": "201701158",
+        "print_front": "EAC",
+        "print_back": "분할선"
+    },
+    "621": {
+        "k_code": "K-011845",
+        "item_seq": "200201481",
+        "print_front": "BK H-Ca",
+        "print_back": ""
+    },
+    "622": {
+        "k_code": "K-002160",
+        "item_seq": "198800154",
+        "print_front": "△▽△ZELCOM▽△▽",
+        "print_back": "ZELCOM분할선CKD"
+    },
+    "623": {
+        "k_code": "K-044108",
+        "item_seq": "201802617",
+        "print_front": "D-W FLB",
+        "print_back": ""
+    },
+    "624": {
+        "k_code": "K-044395",
+        "item_seq": "201803233",
+        "print_front": "K분할선K",
+        "print_back": "300"
+    },
+    "625": {
+        "k_code": "K-045102",
+        "item_seq": "201805240",
+        "print_front": "분할선",
+        "print_back": "EMC"
+    },
+    "626": {
+        "k_code": "K-042202",
+        "item_seq": "201706447",
+        "print_front": "IWP",
+        "print_back": "I CD3"
+    },
+    "627": {
+        "k_code": "K-032900",
+        "item_seq": "201401475",
+        "print_front": "H분할선S",
+        "print_back": "ATP"
+    },
+    "628": {
+        "k_code": "K-040998",
+        "item_seq": "201700254",
+        "print_front": "BPΛΛ",
+        "print_back": ""
+    },
+    "629": {
+        "k_code": "K-024584",
+        "item_seq": "200809204",
+        "print_front": "GHG",
+        "print_back": ""
+    },
+    "630": {
+        "k_code": "K-007843",
+        "item_seq": "199901047",
+        "print_front": "TG NLC",
+        "print_back": ""
+    },
+    "631": {
+        "k_code": "K-011613",
+        "item_seq": "200200662",
+        "print_front": "SETOPENER",
+        "print_back": ""
+    },
+    "632": {
+        "k_code": "K-043689",
+        "item_seq": "201801688",
+        "print_front": "IWP",
+        "print_back": "B2"
+    },
+    "633": {
+        "k_code": "K-032083",
+        "item_seq": "201309963",
+        "print_front": "PENZAL ER",
+        "print_back": ""
+    },
+    "634": {
+        "k_code": "K-005886",
+        "item_seq": "199603003",
+        "print_front": "TYLENOLER",
+        "print_back": ""
+    },
+    "635": {
+        "k_code": "K-043499",
+        "item_seq": "201801256",
+        "print_front": "IWP",
+        "print_back": "분할선"
+    },
+    "636": {
+        "k_code": "K-045103",
+        "item_seq": "201805241",
+        "print_front": "SKSM",
+        "print_back": ""
+    },
+    "637": {
+        "k_code": "K-013470",
+        "item_seq": "200301966",
+        "print_front": "CP",
+        "print_back": "ΛC"
+    },
+    "638": {
+        "k_code": "K-030518",
+        "item_seq": "201300045",
+        "print_front": "TAK WTCC",
+        "print_back": ""
+    },
+    "639": {
+        "k_code": "K-008868",
+        "item_seq": "200001102",
+        "print_front": "D-W",
+        "print_back": "S분할선G"
+    },
+    "640": {
+        "k_code": "K-012081",
+        "item_seq": "200202194",
+        "print_front": "HMP",
+        "print_back": "RP"
+    },
+    "641": {
+        "k_code": "K-026093",
+        "item_seq": "200904932",
+        "print_front": "Da",
+        "print_back": "AMT"
+    },
+    "642": {
+        "k_code": "K-044458",
+        "item_seq": "201803401",
+        "print_front": "KB",
+        "print_back": "32"
+    },
+    "643": {
+        "k_code": "K-013592",
+        "item_seq": "200302254",
+        "print_front": "마크3",
+        "print_back": "분할선"
+    },
+    "644": {
+        "k_code": "K-002169",
+        "item_seq": "198800190",
+        "print_front": "BSF",
+        "print_back": ""
+    },
+    "645": {
+        "k_code": "K-013474",
+        "item_seq": "200301983",
+        "print_front": "CP23",
+        "print_back": "분할선"
+    },
+    "646": {
+        "k_code": "K-012249",
+        "item_seq": "000012249",
+        "print_front": "",
+        "print_back": ""
+    },
+    "647": {
+        "k_code": "K-005849",
+        "item_seq": "199602668",
+        "print_front": "마크",
+        "print_back": "MSP분할선500"
+    },
+    "648": {
+        "k_code": "K-036982",
+        "item_seq": "201504877",
+        "print_front": "TACENOL",
+        "print_back": "500"
+    },
+    "649": {
+        "k_code": "K-029980",
+        "item_seq": "201206724",
+        "print_front": "K.D",
+        "print_back": "분할선"
+    },
+    "650": {
+        "k_code": "K-002074",
+        "item_seq": "198701888",
+        "print_front": "SK&F----",
+        "print_back": "분할선"
+    },
+    "651": {
+        "k_code": "K-010955",
+        "item_seq": "200102671",
+        "print_front": "PK",
+        "print_back": "M"
+    },
+    "652": {
+        "k_code": "K-019553",
+        "item_seq": "200607735",
+        "print_front": "YH CNT",
+        "print_back": ""
+    },
+    "653": {
+        "k_code": "K-050539",
+        "item_seq": "202001134",
+        "print_front": "NBK",
+        "print_back": "300"
+    },
+    "654": {
+        "k_code": "K-031178",
+        "item_seq": "201307514",
+        "print_front": "KPP",
+        "print_back": "PEN"
+    },
+    "655": {
+        "k_code": "K-017587",
+        "item_seq": "200502310",
+        "print_front": "LCB",
+        "print_back": "L8"
+    },
+    "656": {
+        "k_code": "K-026993",
+        "item_seq": "201000406",
+        "print_front": "ADCX",
+        "print_back": ""
+    },
+    "657": {
+        "k_code": "K-013326",
+        "item_seq": "",
+        "print_front": "",
+        "print_back": ""
+    },
+    "658": {
+        "k_code": "K-008900",
+        "item_seq": "200001305",
+        "print_front": "마크",
+        "print_back": "마크"
+    },
+    "659": {
+        "k_code": "K-011617",
+        "item_seq": "200200677",
+        "print_front": "AC",
+        "print_back": "MO"
+    },
+    "660": {
+        "k_code": "K-010528",
+        "item_seq": "200100915",
+        "print_front": "A분할선G",
+        "print_back": "150"
+    },
+    "661": {
+        "k_code": "K-011015",
+        "item_seq": "200103013",
+        "print_front": "현대약품 시노카N",
+        "print_back": ""
+    },
+    "662": {
+        "k_code": "K-000721",
+        "item_seq": "198000572",
+        "print_front": "마크",
+        "print_back": "마크2"
+    },
+    "663": {
+        "k_code": "K-025200",
+        "item_seq": "200900833",
+        "print_front": "MM분할선D",
+        "print_back": ""
+    },
+    "664": {
+        "k_code": "K-007317",
+        "item_seq": "199802387",
+        "print_front": "NPRT",
+        "print_back": ""
+    },
+    "665": {
+        "k_code": "K-007914",
+        "item_seq": "199901458",
+        "print_front": "Mgo 500",
+        "print_back": ""
+    },
+    "666": {
+        "k_code": "K-015537",
+        "item_seq": "200403167",
+        "print_front": "H분할선S",
+        "print_back": "AR"
+    },
+    "667": {
+        "k_code": "K-007144",
+        "item_seq": "199801576",
+        "print_front": "레가론140 레가론140",
+        "print_back": ""
+    },
+    "668": {
+        "k_code": "K-010944",
+        "item_seq": "200102653",
+        "print_front": "PK",
+        "print_back": ""
+    },
+    "669": {
+        "k_code": "K-031179",
+        "item_seq": "201307515",
+        "print_front": "KPP",
+        "print_back": "A분할선S"
+    },
+    "670": {
+        "k_code": "K-050105",
+        "item_seq": "202000112",
+        "print_front": "마크",
+        "print_back": ""
+    },
+    "671": {
+        "k_code": "K-011546",
+        "item_seq": "200200423",
+        "print_front": "JW3 JW3",
+        "print_back": ""
+    },
+    "672": {
+        "k_code": "K-001866",
+        "item_seq": "198700430",
+        "print_front": "YH",
+        "print_back": "AMG"
+    },
+    "673": {
+        "k_code": "K-004744",
+        "item_seq": "199401695",
+        "print_front": "KD",
+        "print_back": "113"
+    },
+    "674": {
+        "k_code": "K-037043",
+        "item_seq": "201505018",
+        "print_front": "VBT",
+        "print_back": "분할선"
+    },
+    "675": {
+        "k_code": "K-028623",
+        "item_seq": "201104359",
+        "print_front": "SCT",
+        "print_back": ""
+    },
+    "676": {
+        "k_code": "K-008902",
+        "item_seq": "200001328",
+        "print_front": "CGP10",
+        "print_back": ""
+    },
+    "677": {
+        "k_code": "K-010530",
+        "item_seq": "200100921",
+        "print_front": "TG BSR",
+        "print_back": ""
+    },
+    "678": {
+        "k_code": "K-050144",
+        "item_seq": "202000200",
+        "print_front": "UT",
+        "print_back": "ELD"
+    },
+    "679": {
+        "k_code": "K-029251",
+        "item_seq": "201110747",
+        "print_front": "J분할선W",
+        "print_back": ""
+    },
+    "680": {
+        "k_code": "K-052637",
+        "item_seq": "202005452",
+        "print_front": "RD",
+        "print_back": "분할선"
+    },
+    "681": {
+        "k_code": "K-037500",
+        "item_seq": "201506815",
+        "print_front": "T분할선5",
+        "print_back": "C"
+    },
+    "682": {
+        "k_code": "K-009852",
+        "item_seq": "200005321",
+        "print_front": "NKE",
+        "print_back": ""
+    },
+    "683": {
+        "k_code": "K-019843",
+        "item_seq": "200610627",
+        "print_front": "Saridon",
+        "print_back": "Saridon"
+    },
+    "684": {
+        "k_code": "K-038622",
+        "item_seq": "201601700",
+        "print_front": "T71",
+        "print_back": "마크"
+    },
+    "685": {
+        "k_code": "K-018203",
+        "item_seq": "200511293",
+        "print_front": "BL 01",
+        "print_back": "분할선"
+    },
+    "686": {
+        "k_code": "K-045067",
+        "item_seq": "201805153",
+        "print_front": "L분할선1",
+        "print_back": "D-W"
+    },
+    "687": {
+        "k_code": "K-052486",
+        "item_seq": "202004872",
+        "print_front": "CVP",
+        "print_back": ""
+    },
+    "688": {
+        "k_code": "K-053357",
+        "item_seq": "202009212",
+        "print_front": "G분할선24",
+        "print_back": ""
+    },
+    "689": {
+        "k_code": "K-040265",
+        "item_seq": "201605049",
+        "print_front": "HT",
+        "print_back": "AF"
+    },
+    "690": {
+        "k_code": "K-011442",
+        "item_seq": "200200133",
+        "print_front": "GH",
+        "print_back": ""
+    },
+    "691": {
+        "k_code": "K-011780",
+        "item_seq": "200201233",
+        "print_front": "GP",
+        "print_back": "분할선"
+    },
+    "692": {
+        "k_code": "K-000250",
+        "item_seq": "197400246",
+        "print_front": "마크",
+        "print_back": "마크"
+    },
+    "693": {
+        "k_code": "K-023933",
+        "item_seq": "200806365",
+        "print_front": "HS",
+        "print_back": "ΛD"
+    },
+    "694": {
+        "k_code": "K-034582",
+        "item_seq": "201405163",
+        "print_front": "마크",
+        "print_back": "분할선"
+    },
+    "695": {
+        "k_code": "K-044921",
+        "item_seq": "201804619",
+        "print_front": "GHN",
+        "print_back": ""
+    },
+    "696": {
+        "k_code": "K-033059",
+        "item_seq": "201402060",
+        "print_front": "IY",
+        "print_back": "CZ"
+    },
+    "697": {
+        "k_code": "K-031974",
+        "item_seq": "201309612",
+        "print_front": "Y분할선H",
+        "print_back": "B-All"
+    },
+    "698": {
+        "k_code": "K-032607",
+        "item_seq": "201400542",
+        "print_front": "KN10",
+        "print_back": ""
+    },
+    "699": {
+        "k_code": "K-034894",
+        "item_seq": "201405845",
+        "print_front": "NT",
+        "print_back": ""
+    },
+    "700": {
+        "k_code": "K-002824",
+        "item_seq": "198901915",
+        "print_front": "IP분할선4",
+        "print_back": "SI"
+    },
+    "701": {
+        "k_code": "K-031963",
+        "item_seq": "201309579",
+        "print_front": "SNP OM",
+        "print_back": ""
+    },
+    "702": {
+        "k_code": "K-032253",
+        "item_seq": "201310516",
+        "print_front": "BK3",
+        "print_back": ""
+    },
+    "703": {
+        "k_code": "K-011982",
+        "item_seq": "200201784",
+        "print_front": "마크",
+        "print_back": "S분할선R"
+    },
+    "704": {
+        "k_code": "K-001150",
+        "item_seq": "198400131",
+        "print_front": "KS S",
+        "print_back": ""
+    },
+    "705": {
+        "k_code": "K-016799",
+        "item_seq": "200500704",
+        "print_front": "AJU",
+        "print_back": "분할선"
+    },
+    "706": {
+        "k_code": "K-025285",
+        "item_seq": "200901319",
+        "print_front": "C분할선P",
+        "print_back": ""
+    },
+    "707": {
+        "k_code": "K-028437",
+        "item_seq": "201103151",
+        "print_front": "마크 신한방화콜",
+        "print_back": ""
+    },
+    "708": {
+        "k_code": "K-030163",
+        "item_seq": "201207377",
+        "print_front": "KG분할선DE",
+        "print_back": ""
+    },
+    "709": {
+        "k_code": "K-046737",
+        "item_seq": "201902794",
+        "print_front": "JH",
+        "print_back": "JCZ"
+    },
+    "710": {
+        "k_code": "K-013403",
+        "item_seq": "200301833",
+        "print_front": "HMP ERD",
+        "print_back": ""
+    },
+    "711": {
+        "k_code": "K-002275",
+        "item_seq": "198801103",
+        "print_front": "SAMJIN OSTEMIN",
+        "print_back": ""
+    },
+    "712": {
+        "k_code": "K-008537",
+        "item_seq": "199907335",
+        "print_front": "HMP",
+        "print_back": "분할선"
+    },
+    "713": {
+        "k_code": "K-010538",
+        "item_seq": "200100960",
+        "print_front": "PT3",
+        "print_back": ""
+    },
+    "714": {
+        "k_code": "K-000573",
+        "item_seq": "197900277",
+        "print_front": "GR",
+        "print_back": ""
+    },
+    "715": {
+        "k_code": "K-012914",
+        "item_seq": "200300725",
+        "print_front": "ΛPG",
+        "print_back": "2"
+    },
+    "716": {
+        "k_code": "K-032243",
+        "item_seq": "201310413",
+        "print_front": "마크KLS",
+        "print_back": "분할선"
+    },
+    "717": {
+        "k_code": "K-032158",
+        "item_seq": "000032158",
+        "print_front": "",
+        "print_back": ""
+    },
+    "718": {
+        "k_code": "K-034827",
+        "item_seq": "201405635",
+        "print_front": "엑스콜콜드 엑스콜콜드",
+        "print_back": ""
+    },
+    "719": {
+        "k_code": "K-022749",
+        "item_seq": "200713170",
+        "print_front": "T2",
+        "print_back": ""
+    },
+    "720": {
+        "k_code": "K-038290",
+        "item_seq": "201600779",
+        "print_front": "마크",
+        "print_back": "분할선"
+    },
+    "721": {
+        "k_code": "K-012244",
+        "item_seq": "200202873",
+        "print_front": "ENSIDER",
+        "print_back": ""
+    },
+    "722": {
+        "k_code": "K-000650",
+        "item_seq": "198000151",
+        "print_front": "BLD",
+        "print_back": ""
+    },
+    "723": {
+        "k_code": "K-007235",
+        "item_seq": "199801959",
+        "print_front": "YI",
+        "print_back": "43"
+    },
+    "724": {
+        "k_code": "K-011541",
+        "item_seq": "200200399",
+        "print_front": "JW8",
+        "print_back": ""
+    },
+    "725": {
+        "k_code": "K-050103",
+        "item_seq": "202000107",
+        "print_front": "KB IW",
+        "print_back": ""
+    },
+    "726": {
+        "k_code": "K-010554",
+        "item_seq": "200101032",
+        "print_front": "α",
+        "print_back": "분할선"
+    },
+    "727": {
+        "k_code": "K-005025",
+        "item_seq": "199500536",
+        "print_front": "AL",
+        "print_back": "SF"
+    },
+    "728": {
+        "k_code": "K-002942",
+        "item_seq": "199000361",
+        "print_front": "ID",
+        "print_back": "L"
+    },
+    "729": {
+        "k_code": "K-046375",
+        "item_seq": "201902226",
+        "print_front": "E분할선3",
+        "print_back": ""
+    },
+    "730": {
+        "k_code": "K-009443",
+        "item_seq": "200003019",
+        "print_front": "DEX",
+        "print_back": "분할선"
+    },
+    "731": {
+        "k_code": "K-002537",
+        "item_seq": "198802481",
+        "print_front": "ARTHA",
+        "print_back": ""
+    },
+    "732": {
+        "k_code": "K-043285",
+        "item_seq": "201800701",
+        "print_front": "마크",
+        "print_back": "십자분할선"
+    },
+    "733": {
+        "k_code": "K-022362",
+        "item_seq": "200710817",
+        "print_front": "MX",
+        "print_back": ""
+    },
+    "734": {
+        "k_code": "K-029916",
+        "item_seq": "201206499",
+        "print_front": "마크",
+        "print_back": "D04"
+    },
+    "735": {
+        "k_code": "K-010738",
+        "item_seq": "200101683",
+        "print_front": "UT D",
+        "print_back": "분할선"
+    },
+    "736": {
+        "k_code": "K-040244",
+        "item_seq": "201605000",
+        "print_front": "A분할선C",
+        "print_back": "S"
+    },
+    "737": {
+        "k_code": "K-007822",
+        "item_seq": "199900926",
+        "print_front": "FG",
+        "print_back": ""
+    },
+    "738": {
+        "k_code": "K-004030",
+        "item_seq": "199300217",
+        "print_front": "CKD",
+        "print_back": "분할선"
+    },
+    "739": {
+        "k_code": "K-030060",
+        "item_seq": "201206916",
+        "print_front": "AG분할선SR",
+        "print_back": ""
+    },
+    "740": {
+        "k_code": "K-007588",
+        "item_seq": "199806985",
+        "print_front": "CI",
+        "print_back": "CD"
+    },
+    "741": {
+        "k_code": "K-010140",
+        "item_seq": "200008591",
+        "print_front": "마크",
+        "print_back": "ASPIRIN0.5"
+    },
+    "742": {
+        "k_code": "K-037988",
+        "item_seq": "201508272",
+        "print_front": "GAS-F",
+        "print_back": "분할선"
+    },
+    "743": {
+        "k_code": "K-045583",
+        "item_seq": "201900962",
+        "print_front": "PE3",
+        "print_back": ""
+    },
+    "744": {
+        "k_code": "K-000059",
+        "item_seq": "196400046",
+        "print_front": "G",
+        "print_back": "G"
+    },
+    "745": {
+        "k_code": "K-007024",
+        "item_seq": "199801026",
+        "print_front": "훼스탈PLUS",
+        "print_back": ""
+    },
+    "746": {
+        "k_code": "K-045658",
+        "item_seq": "201901096",
+        "print_front": "CT",
+        "print_back": "HF"
+    },
+    "747": {
+        "k_code": "K-017668",
+        "item_seq": "200502474",
+        "print_front": "YP",
+        "print_back": ""
+    },
+    "748": {
+        "k_code": "K-007923",
+        "item_seq": "199901507",
+        "print_front": "SAMJIN CHONROIN",
+        "print_back": ""
+    },
+    "749": {
+        "k_code": "K-025648",
+        "item_seq": "200903579",
+        "print_front": "T32",
+        "print_back": "분할선"
+    },
+    "750": {
+        "k_code": "K-002049",
+        "item_seq": "198701672",
+        "print_front": "Crw Sob-100",
+        "print_back": ""
+    },
+    "751": {
+        "k_code": "K-025262",
+        "item_seq": "200901146",
+        "print_front": "T18",
+        "print_back": ""
+    },
+    "752": {
+        "k_code": "K-002495",
+        "item_seq": "198801657",
+        "print_front": "마크",
+        "print_back": ""
+    },
+    "753": {
+        "k_code": "K-026788",
+        "item_seq": "200907385",
+        "print_front": "ECP",
+        "print_back": ""
+    },
+    "754": {
+        "k_code": "K-029910",
+        "item_seq": "201206493",
+        "print_front": "WD",
+        "print_back": "SD"
+    },
+    "755": {
+        "k_code": "K-018305",
+        "item_seq": "200512200",
+        "print_front": "HMP120",
+        "print_back": "분할선"
+    },
+    "756": {
+        "k_code": "K-013332",
+        "item_seq": "200301610",
+        "print_front": "K분할선D",
+        "print_back": "EL300"
+    },
+    "757": {
+        "k_code": "K-051165",
+        "item_seq": "202002321",
+        "print_front": "KJN",
+        "print_back": "분할선"
+    },
+    "758": {
+        "k_code": "K-016736",
+        "item_seq": "200500570",
+        "print_front": "YH",
+        "print_back": "TNX"
+    },
+    "759": {
+        "k_code": "K-041290",
+        "item_seq": "201701248",
+        "print_front": "NAP",
+        "print_back": "275"
+    },
+    "760": {
+        "k_code": "K-010912",
+        "item_seq": "200102499",
+        "print_front": "마크 RDP",
+        "print_back": ""
+    },
+    "761": {
+        "k_code": "K-033609",
+        "item_seq": "201403363",
+        "print_front": "JWS",
+        "print_back": "S분할선F"
+    },
+    "762": {
+        "k_code": "K-026561",
+        "item_seq": "200905943",
+        "print_front": "KNA",
+        "print_back": "분할선"
+    },
+    "763": {
+        "k_code": "K-013259",
+        "item_seq": "200301499",
+        "print_front": "",
+        "print_back": "마크"
+    },
+    "764": {
+        "k_code": "K-033171",
+        "item_seq": "201402369",
+        "print_front": "SIG",
+        "print_back": "분할선"
+    },
+    "765": {
+        "k_code": "K-052276",
+        "item_seq": "202004224",
+        "print_front": "DM",
+        "print_back": "A"
+    },
+    "766": {
+        "k_code": "K-025276",
+        "item_seq": "200901257",
+        "print_front": "05B분할선05B",
+        "print_back": ""
+    },
+    "767": {
+        "k_code": "K-040587",
+        "item_seq": "201606067",
+        "print_front": "SK",
+        "print_back": "DJ"
+    },
+    "768": {
+        "k_code": "K-019469",
+        "item_seq": "200607018",
+        "print_front": "QRT",
+        "print_back": "분할선"
+    },
+    "769": {
+        "k_code": "K-044660",
+        "item_seq": "201803907",
+        "print_front": "KOWA α",
+        "print_back": ""
+    },
+    "770": {
+        "k_code": "K-013626",
+        "item_seq": "200302348",
+        "print_front": "",
+        "print_back": ""
+    },
+    "771": {
+        "k_code": "K-011942",
+        "item_seq": "200201695",
+        "print_front": "WK21",
+        "print_back": ""
+    },
+    "772": {
+        "k_code": "K-009410",
+        "item_seq": "200002787",
+        "print_front": "ETEX SRH",
+        "print_back": ""
+    },
+    "773": {
+        "k_code": "K-033746",
+        "item_seq": "201403560",
+        "print_front": "KLN",
+        "print_back": "CZ"
+    },
+    "774": {
+        "k_code": "K-030840",
+        "item_seq": "201306109",
+        "print_front": "GCD",
+        "print_back": "마크"
+    },
+    "775": {
+        "k_code": "K-023410",
+        "item_seq": "200803434",
+        "print_front": "K",
+        "print_back": "IWP"
+    },
+    "776": {
+        "k_code": "K-020330",
+        "item_seq": "200701280",
+        "print_front": "T39",
+        "print_back": ""
+    },
+    "777": {
+        "k_code": "K-024350",
+        "item_seq": "200807945",
+        "print_front": "EVC",
+        "print_back": "분할선"
+    },
+    "778": {
+        "k_code": "K-011543",
+        "item_seq": "200200406",
+        "print_front": "JW2",
+        "print_back": ""
+    },
+    "779": {
+        "k_code": "K-000479",
+        "item_seq": "197800242",
+        "print_front": "NAT",
+        "print_back": ""
+    },
+    "780": {
+        "k_code": "K-001061",
+        "item_seq": "198300605",
+        "print_front": "PΛ",
+        "print_back": ""
+    },
+    "781": {
+        "k_code": "K-024503",
+        "item_seq": "200808686",
+        "print_front": "마크HF",
+        "print_back": ""
+    },
+    "782": {
+        "k_code": "K-015230",
+        "item_seq": "200402546",
+        "print_front": "마크 EMN",
+        "print_back": ""
+    },
+    "783": {
+        "k_code": "K-029864",
+        "item_seq": "201206327",
+        "print_front": "마크",
+        "print_back": "S분할선1"
+    },
+    "784": {
+        "k_code": "K-026059",
+        "item_seq": "200904846",
+        "print_front": "I분할선K",
+        "print_back": ""
+    },
+    "785": {
+        "k_code": "K-038957",
+        "item_seq": "201602683",
+        "print_front": "ELEVIT",
+        "print_back": "분할선"
+    },
+    "786": {
+        "k_code": "K-024995",
+        "item_seq": "200811364",
+        "print_front": "VB",
+        "print_back": "분할선"
+    },
+    "787": {
+        "k_code": "K-012003",
+        "item_seq": "200201855",
+        "print_front": "DID",
+        "print_back": "ABP"
+    },
+    "788": {
+        "k_code": "K-037501",
+        "item_seq": "201506816",
+        "print_front": "T분할선7",
+        "print_back": "C"
+    },
+    "789": {
+        "k_code": "K-014986",
+        "item_seq": "200402122",
+        "print_front": "마크",
+        "print_back": "DZ"
+    },
+    "790": {
+        "k_code": "K-010366",
+        "item_seq": "200100323",
+        "print_front": "K분할선S",
+        "print_back": "3"
+    },
+    "791": {
+        "k_code": "K-012192",
+        "item_seq": "200202755",
+        "print_front": "마크",
+        "print_back": "ESP분할선"
+    },
+    "792": {
+        "k_code": "K-019904",
+        "item_seq": "200610975",
+        "print_front": "AD",
+        "print_back": "분할선"
+    },
+    "793": {
+        "k_code": "K-003078",
+        "item_seq": "199001080",
+        "print_front": "MK MU1",
+        "print_back": ""
+    },
+    "794": {
+        "k_code": "K-012865",
+        "item_seq": "200300623",
+        "print_front": "A분할선L",
+        "print_back": "B Z"
+    },
+    "795": {
+        "k_code": "K-008123",
+        "item_seq": "199902599",
+        "print_front": "",
+        "print_back": "마크NP"
+    },
+    "796": {
+        "k_code": "K-008014",
+        "item_seq": "199901886",
+        "print_front": "REP AIN",
+        "print_back": ""
+    },
+    "797": {
+        "k_code": "K-008204",
+        "item_seq": "199903179",
+        "print_front": "HS",
+        "print_back": "CC"
+    },
+    "798": {
+        "k_code": "K-013395",
+        "item_seq": "200301818",
+        "print_front": "SUSPEN  ER",
+        "print_back": ""
+    },
+    "799": {
+        "k_code": "K-011783",
+        "item_seq": "200201239",
+        "print_front": "A-R",
+        "print_back": ""
+    },
+    "800": {
+        "k_code": "K-003017",
+        "item_seq": "199000568",
+        "print_front": "KOLON",
+        "print_back": ""
+    },
+    "801": {
+        "k_code": "K-000147",
+        "item_seq": "197100081",
+        "print_front": "KS",
+        "print_back": "BT"
+    },
+    "802": {
+        "k_code": "K-007340",
+        "item_seq": "199802621",
+        "print_front": "CPK 10",
+        "print_back": ""
+    },
+    "803": {
+        "k_code": "K-013378",
+        "item_seq": "200301766",
+        "print_front": "분할선",
+        "print_back": "마크DS"
+    },
+    "804": {
+        "k_code": "K-006250",
+        "item_seq": "199701099",
+        "print_front": "SNP",
+        "print_back": "분할선"
+    },
+    "805": {
+        "k_code": "K-051306",
+        "item_seq": "202002642",
+        "print_front": "YN",
+        "print_back": ""
+    },
+    "806": {
+        "k_code": "K-010749",
+        "item_seq": "200101738",
+        "print_front": "마크",
+        "print_back": "FER"
+    },
+    "807": {
+        "k_code": "K-049905",
+        "item_seq": "201908438",
+        "print_front": "마크N분할선DE",
+        "print_back": ""
+    },
+    "808": {
+        "k_code": "K-011166",
+        "item_seq": "200103964",
+        "print_front": "마크",
+        "print_back": "+SNPD"
+    },
+    "809": {
+        "k_code": "K-001728",
+        "item_seq": "198601047",
+        "print_front": "마크",
+        "print_back": "DC125"
+    },
+    "810": {
+        "k_code": "K-044830",
+        "item_seq": "201804378",
+        "print_front": "하벤 허브F",
+        "print_back": ""
+    },
+    "811": {
+        "k_code": "K-000121",
+        "item_seq": "197000076",
+        "print_front": "BN분할선BN",
+        "print_back": ""
+    },
+    "812": {
+        "k_code": "K-006456",
+        "item_seq": "199701967",
+        "print_front": "YI분할선3",
+        "print_back": ""
+    },
+    "813": {
+        "k_code": "K-007638",
+        "item_seq": "199900184",
+        "print_front": "YUYU",
+        "print_back": "NRT"
+    },
+    "814": {
+        "k_code": "K-001743",
+        "item_seq": "198601210",
+        "print_front": "M036",
+        "print_back": "M036"
+    },
+    "815": {
+        "k_code": "K-029865",
+        "item_seq": "201206328",
+        "print_front": "T분할선S",
+        "print_back": "마크"
+    },
+    "816": {
+        "k_code": "K-031876",
+        "item_seq": "201309386",
+        "print_front": "마크분할선D",
+        "print_back": ""
+    },
+    "817": {
+        "k_code": "K-013263",
+        "item_seq": "200301504",
+        "print_front": "마크 CC",
+        "print_back": ""
+    },
+    "818": {
+        "k_code": "K-022963",
+        "item_seq": "200800614",
+        "print_front": "IWP",
+        "print_back": "A2"
+    },
+    "819": {
+        "k_code": "K-033588",
+        "item_seq": "201403321",
+        "print_front": "IY NS",
+        "print_back": ""
+    },
+    "820": {
+        "k_code": "K-044834",
+        "item_seq": "201804394",
+        "print_front": "마크E300",
+        "print_back": ""
+    },
+    "821": {
+        "k_code": "K-005558",
+        "item_seq": "",
+        "print_front": "",
+        "print_back": ""
+    },
+    "822": {
+        "k_code": "K-004548",
+        "item_seq": "199400500",
+        "print_front": "YuhanQ-zyme",
+        "print_back": ""
+    },
+    "823": {
+        "k_code": "K-013256",
+        "item_seq": "200301486",
+        "print_front": "Hanwha LCR",
+        "print_back": ""
+    },
+    "824": {
+        "k_code": "K-022095",
+        "item_seq": "200709544",
+        "print_front": "V-B",
+        "print_back": ""
+    },
+    "825": {
+        "k_code": "K-010769",
+        "item_seq": "200101844",
+        "print_front": "CZZ",
+        "print_back": ""
+    },
+    "826": {
+        "k_code": "K-022371",
+        "item_seq": "200710854",
+        "print_front": "IKSU HUB",
+        "print_back": ""
+    },
+    "827": {
+        "k_code": "K-000272",
+        "item_seq": "197500016",
+        "print_front": "N250",
+        "print_back": ""
+    },
+    "828": {
+        "k_code": "K-004617",
+        "item_seq": "199400891",
+        "print_front": "A",
+        "print_back": "I분할선Y"
+    },
+    "829": {
+        "k_code": "K-009552",
+        "item_seq": "200003819",
+        "print_front": "Cx",
+        "print_back": "분할선"
+    },
+    "830": {
+        "k_code": "K-047998",
+        "item_seq": "201905286",
+        "print_front": "EN2",
+        "print_back": "G분할선80"
+    },
+    "831": {
+        "k_code": "K-000746",
+        "item_seq": "198100119",
+        "print_front": "UDCA",
+        "print_back": "D분할선W"
+    },
+    "832": {
+        "k_code": "K-026741",
+        "item_seq": "200906877",
+        "print_front": "ⓢ",
+        "print_back": "ⓢ"
+    },
+    "833": {
+        "k_code": "K-006284",
+        "item_seq": "199701224",
+        "print_front": "AG",
+        "print_back": "A"
+    },
+    "834": {
+        "k_code": "K-013450",
+        "item_seq": "200301913",
+        "print_front": "KDP",
+        "print_back": ""
+    },
+    "835": {
+        "k_code": "K-008826",
+        "item_seq": "200000744",
+        "print_front": "JW5 JW5",
+        "print_back": ""
+    },
+    "836": {
+        "k_code": "K-023310",
+        "item_seq": "200802773",
+        "print_front": "마크",
+        "print_back": "D"
+    },
+    "837": {
+        "k_code": "K-007120",
+        "item_seq": "",
+        "print_front": "",
+        "print_back": ""
+    },
+    "838": {
+        "k_code": "K-043542",
+        "item_seq": "201801353",
+        "print_front": "HT",
+        "print_back": "U100"
+    },
+    "839": {
+        "k_code": "K-025194",
+        "item_seq": "200900767",
+        "print_front": "IWP STM",
+        "print_back": ""
+    },
+    "840": {
+        "k_code": "K-005094",
+        "item_seq": "199501099",
+        "print_front": "AHG",
+        "print_back": ""
+    },
+    "841": {
+        "k_code": "K-017482",
+        "item_seq": "200502133",
+        "print_front": "마크GE",
+        "print_back": ""
+    },
+    "842": {
+        "k_code": "K-005676",
+        "item_seq": "199601520",
+        "print_front": "PΛZ",
+        "print_back": ""
+    },
+    "843": {
+        "k_code": "K-001527",
+        "item_seq": "198500893",
+        "print_front": "ECF 200",
+        "print_back": ""
+    },
+    "844": {
+        "k_code": "K-019196",
+        "item_seq": "200605371",
+        "print_front": "YH RPC-A",
+        "print_back": ""
+    },
+    "845": {
+        "k_code": "K-039810",
+        "item_seq": "000039810",
+        "print_front": "",
+        "print_back": ""
+    },
+    "846": {
+        "k_code": "K-038760",
+        "item_seq": "201602240",
+        "print_front": "CP",
+        "print_back": "1분할선5"
+    },
+    "847": {
+        "k_code": "K-024854",
+        "item_seq": "200810700",
+        "print_front": "PenzalQ",
+        "print_back": "분할선"
+    },
+    "848": {
+        "k_code": "K-041149",
+        "item_seq": "201700802",
+        "print_front": "Hanwha LCR5",
+        "print_back": ""
+    },
+    "849": {
+        "k_code": "K-006564",
+        "item_seq": "199702183",
+        "print_front": "SK",
+        "print_back": "G분할선80"
+    },
+    "850": {
+        "k_code": "K-043946",
+        "item_seq": "201802251",
+        "print_front": "마크",
+        "print_back": "G분할선80"
+    },
+    "851": {
+        "k_code": "K-032883",
+        "item_seq": "201401417",
+        "print_front": "마크분할선rS",
+        "print_back": "분할선"
+    },
+    "852": {
+        "k_code": "K-040709",
+        "item_seq": "201606577",
+        "print_front": "MΛ",
+        "print_back": "마크"
+    },
+    "853": {
+        "k_code": "K-000672",
+        "item_seq": "198000304",
+        "print_front": "BK CMC",
+        "print_back": ""
+    },
+    "854": {
+        "k_code": "K-004637",
+        "item_seq": "199401030",
+        "print_front": "AA3",
+        "print_back": "분할선"
+    },
+    "855": {
+        "k_code": "K-000364",
+        "item_seq": "197600345",
+        "print_front": "SJP",
+        "print_back": "분할선"
+    },
+    "856": {
+        "k_code": "K-021617",
+        "item_seq": "200707596",
+        "print_front": "TGFB",
+        "print_back": ""
+    },
+    "857": {
+        "k_code": "K-011686",
+        "item_seq": "200200909",
+        "print_front": "마크",
+        "print_back": ""
+    },
+    "858": {
+        "k_code": "K-007348",
+        "item_seq": "199802671",
+        "print_front": "CARB",
+        "print_back": ""
+    },
+    "859": {
+        "k_code": "K-035649",
+        "item_seq": "201501471",
+        "print_front": "마크",
+        "print_back": "CLD"
+    },
+    "860": {
+        "k_code": "K-009379",
+        "item_seq": "200002714",
+        "print_front": "DID",
+        "print_back": ""
+    },
+    "861": {
+        "k_code": "K-044978",
+        "item_seq": "201804839",
+        "print_front": "80",
+        "print_back": "G분할선J"
+    },
+    "862": {
+        "k_code": "K-003329",
+        "item_seq": "199100996",
+        "print_front": "TG분할선MET",
+        "print_back": ""
+    },
+    "863": {
+        "k_code": "K-002256",
+        "item_seq": "198800901",
+        "print_front": "JYC",
+        "print_back": "분할선"
+    },
+    "864": {
+        "k_code": "K-004379",
+        "item_seq": "000004379",
+        "print_front": "",
+        "print_back": ""
+    },
+    "865": {
+        "k_code": "K-044184",
+        "item_seq": "201802764",
+        "print_front": "VCM",
+        "print_back": "마크"
+    },
+    "866": {
+        "k_code": "K-008996",
+        "item_seq": "200001772",
+        "print_front": "마크",
+        "print_back": "G분할선80"
+    },
+    "867": {
+        "k_code": "K-051196",
+        "item_seq": "202002383",
+        "print_front": "부광 코트리나",
+        "print_back": ""
+    },
+    "868": {
+        "k_code": "K-009432",
+        "item_seq": "200002985",
+        "print_front": "T.S",
+        "print_back": "S분할선I"
+    },
+    "869": {
+        "k_code": "K-029892",
+        "item_seq": "201206435",
+        "print_front": "+D",
+        "print_back": "분할선"
+    },
+    "870": {
+        "k_code": "K-014567",
+        "item_seq": "200401210",
+        "print_front": "JRP분할선150F",
+        "print_back": ""
+    },
+    "871": {
+        "k_code": "K-006544",
+        "item_seq": "199702105",
+        "print_front": "CL",
+        "print_back": "분할선"
+    },
+    "872": {
+        "k_code": "K-042785",
+        "item_seq": "201708087",
+        "print_front": "KMP",
+        "print_back": "G분할선80"
+    },
+    "873": {
+        "k_code": "K-009496",
+        "item_seq": "200003409",
+        "print_front": "CP",
+        "print_back": "3"
+    },
+    "874": {
+        "k_code": "K-011154",
+        "item_seq": "200103882",
+        "print_front": "PM",
+        "print_back": "분할선"
+    },
+    "875": {
+        "k_code": "K-006435",
+        "item_seq": "199701908",
+        "print_front": "KDC",
+        "print_back": "ALT"
+    },
+    "876": {
+        "k_code": "K-000368",
+        "item_seq": "197600412",
+        "print_front": "LPM LPM",
+        "print_back": ""
+    },
+    "877": {
+        "k_code": "K-048028",
+        "item_seq": "201905326",
+        "print_front": "ΛT",
+        "print_back": "I분할선Y"
+    },
+    "878": {
+        "k_code": "K-011544",
+        "item_seq": "200200414",
+        "print_front": "LL",
+        "print_back": ""
+    },
+    "879": {
+        "k_code": "K-011064",
+        "item_seq": "200103343",
+        "print_front": "DFN",
+        "print_back": "분할선"
+    },
+    "880": {
+        "k_code": "K-010450",
+        "item_seq": "200100614",
+        "print_front": "KOLON",
+        "print_back": "분할선"
+    },
+    "881": {
+        "k_code": "K-017108",
+        "item_seq": "200501369",
+        "print_front": "마크 1",
+        "print_back": ""
+    },
+    "882": {
+        "k_code": "K-004799",
+        "item_seq": "199402278",
+        "print_front": "TY-160",
+        "print_back": "분할선"
+    },
+    "883": {
+        "k_code": "K-045862",
+        "item_seq": "201901425",
+        "print_front": "마크분할선TM",
+        "print_back": ""
+    },
+    "884": {
+        "k_code": "K-006886",
+        "item_seq": "199800308",
+        "print_front": "KS",
+        "print_back": "AT"
+    },
+    "885": {
+        "k_code": "K-030986",
+        "item_seq": "201306500",
+        "print_front": "MM",
+        "print_back": "GK"
+    },
+    "886": {
+        "k_code": "K-018718",
+        "item_seq": "200600720",
+        "print_front": "NKIN",
+        "print_back": ""
+    },
+    "887": {
+        "k_code": "K-038582",
+        "item_seq": "201601600",
+        "print_front": "cr",
+        "print_back": "crH"
+    },
+    "888": {
+        "k_code": "K-002186",
+        "item_seq": "198800316",
+        "print_front": "TB2KJ",
+        "print_back": ""
+    },
+    "889": {
+        "k_code": "K-049501",
+        "item_seq": "201907748",
+        "print_front": "PKS",
+        "print_back": "분할선"
+    },
+    "890": {
+        "k_code": "K-025828",
+        "item_seq": "200904308",
+        "print_front": "YPMS",
+        "print_back": ""
+    },
+    "891": {
+        "k_code": "K-006432",
+        "item_seq": "199701900",
+        "print_front": "마크",
+        "print_back": "CT"
+    },
+    "892": {
+        "k_code": "K-012256",
+        "item_seq": "200202928",
+        "print_front": "GBT",
+        "print_back": ""
+    },
+    "893": {
+        "k_code": "K-025120",
+        "item_seq": "200900207",
+        "print_front": "T17",
+        "print_back": "분할선"
+    },
+    "894": {
+        "k_code": "K-013135",
+        "item_seq": "200301181",
+        "print_front": "UK9",
+        "print_back": ""
+    },
+    "895": {
+        "k_code": "K-001352",
+        "item_seq": "198401132",
+        "print_front": "SHP TM",
+        "print_back": ""
+    },
+    "896": {
+        "k_code": "K-044382",
+        "item_seq": "201803204",
+        "print_front": "JF",
+        "print_back": ""
+    },
+    "897": {
+        "k_code": "K-006421",
+        "item_seq": "199701845",
+        "print_front": "CK80",
+        "print_back": "HANWHA"
+    },
+    "898": {
+        "k_code": "K-000836",
+        "item_seq": "198200120",
+        "print_front": "TB1KJ",
+        "print_back": ""
+    },
+    "899": {
+        "k_code": "K-020805",
+        "item_seq": "200703429",
+        "print_front": "ID C·F",
+        "print_back": ""
+    },
+    "900": {
+        "k_code": "K-017574",
+        "item_seq": "200502294",
+        "print_front": "LCB",
+        "print_back": ""
+    },
+    "901": {
+        "k_code": "K-006235",
+        "item_seq": "199701033",
+        "print_front": "ALC",
+        "print_back": "분할선"
+    },
+    "902": {
+        "k_code": "K-006025",
+        "item_seq": "199700120",
+        "print_front": "HT",
+        "print_back": "CR"
+    },
+    "903": {
+        "k_code": "K-010408",
+        "item_seq": "200100431",
+        "print_front": "CMT200",
+        "print_back": ""
+    },
+    "904": {
+        "k_code": "K-018720",
+        "item_seq": "200600722",
+        "print_front": "NK CE",
+        "print_back": ""
+    },
+    "905": {
+        "k_code": "K-015989",
+        "item_seq": "200404205",
+        "print_front": "M150",
+        "print_back": ""
+    },
+    "906": {
+        "k_code": "K-007246",
+        "item_seq": "",
+        "print_front": "",
+        "print_back": ""
+    },
+    "907": {
+        "k_code": "K-011029",
+        "item_seq": "200103049",
+        "print_front": "MMHIT",
+        "print_back": ""
+    },
+    "908": {
+        "k_code": "K-024765",
+        "item_seq": "200810230",
+        "print_front": "J분할선W",
+        "print_back": ""
+    },
+    "909": {
+        "k_code": "K-008976",
+        "item_seq": "200001713",
+        "print_front": "SN",
+        "print_back": "분할선"
+    },
+    "910": {
+        "k_code": "K-047626",
+        "item_seq": "201904346",
+        "print_front": "YJ",
+        "print_back": "Z80"
+    },
+    "911": {
+        "k_code": "K-014102",
+        "item_seq": "200400201",
+        "print_front": "OST",
+        "print_back": ""
+    },
+    "912": {
+        "k_code": "K-042616",
+        "item_seq": "201707587",
+        "print_front": "HNZ",
+        "print_back": "G분할선80"
+    },
+    "913": {
+        "k_code": "K-026636",
+        "item_seq": "200906484",
+        "print_front": "ASTX 100",
+        "print_back": ""
+    },
+    "914": {
+        "k_code": "K-013390",
+        "item_seq": "200301805",
+        "print_front": "HM",
+        "print_back": ""
+    },
+    "915": {
+        "k_code": "K-049866",
+        "item_seq": "201908351",
+        "print_front": "마크MC",
+        "print_back": "분할선"
+    },
+    "916": {
+        "k_code": "K-022183",
+        "item_seq": "200709913",
+        "print_front": "ZPG",
+        "print_back": ""
+    },
+    "917": {
+        "k_code": "K-002031",
+        "item_seq": "198701478",
+        "print_front": "S분할선J",
+        "print_back": "S분할선J"
+    },
+    "918": {
+        "k_code": "K-034327",
+        "item_seq": "201404706",
+        "print_front": "ENK",
+        "print_back": "TME"
+    },
+    "919": {
+        "k_code": "K-033406",
+        "item_seq": "201402959",
+        "print_front": "KG",
+        "print_back": "7"
+    },
+    "920": {
+        "k_code": "K-035328",
+        "item_seq": "201500644",
+        "print_front": "CU",
+        "print_back": ""
+    },
+    "921": {
+        "k_code": "K-010545",
+        "item_seq": "200101016",
+        "print_front": "J.R",
+        "print_back": ""
+    },
+    "922": {
+        "k_code": "K-030177",
+        "item_seq": "201207417",
+        "print_front": "ΛJU",
+        "print_back": "ΛS"
+    },
+    "923": {
+        "k_code": "K-041918",
+        "item_seq": "201704832",
+        "print_front": "JI",
+        "print_back": "G40"
+    },
+    "924": {
+        "k_code": "K-030053",
+        "item_seq": "201206882",
+        "print_front": "마크",
+        "print_back": "분할선"
+    },
+    "925": {
+        "k_code": "K-006064",
+        "item_seq": "199700265",
+        "print_front": "RZ",
+        "print_back": ""
+    },
+    "926": {
+        "k_code": "K-033146",
+        "item_seq": "201402309",
+        "print_front": "SD",
+        "print_back": "M"
+    },
+    "927": {
+        "k_code": "K-009387",
+        "item_seq": "200002729",
+        "print_front": "KD",
+        "print_back": "ZN75"
+    },
+    "928": {
+        "k_code": "K-014205",
+        "item_seq": "200400364",
+        "print_front": "마크43",
+        "print_back": ""
+    },
+    "929": {
+        "k_code": "K-014180",
+        "item_seq": "",
+        "print_front": "",
+        "print_back": ""
+    },
+    "930": {
+        "k_code": "K-003746",
+        "item_seq": "199201154",
+        "print_front": "MKTF",
+        "print_back": ""
+    },
+    "931": {
+        "k_code": "K-006697",
+        "item_seq": "199703153",
+        "print_front": "CZT",
+        "print_back": "분할선"
+    },
+    "932": {
+        "k_code": "K-017479",
+        "item_seq": "200502126",
+        "print_front": "마크CD",
+        "print_back": "분할선"
+    },
+    "933": {
+        "k_code": "K-052916",
+        "item_seq": "",
+        "print_front": "",
+        "print_back": ""
+    },
+    "934": {
+        "k_code": "K-052691",
+        "item_seq": "",
+        "print_front": "",
+        "print_back": ""
+    },
+    "935": {
+        "k_code": "K-005466",
+        "item_seq": "199600246",
+        "print_front": "BSZT",
+        "print_back": ""
+    },
+    "936": {
+        "k_code": "K-011354",
+        "item_seq": "200109769",
+        "print_front": "Advil",
+        "print_back": ""
+    },
+    "937": {
+        "k_code": "K-006323",
+        "item_seq": "199701398",
+        "print_front": "M분할선K",
+        "print_back": "AT"
+    },
+    "938": {
+        "k_code": "K-058086",
+        "item_seq": "200201329",
+        "print_front": "DPF",
+        "print_back": "분할선"
+    },
+    "939": {
+        "k_code": "K-043251",
+        "item_seq": "201800601",
+        "print_front": "HN",
+        "print_back": "G분할선80"
+    },
+    "940": {
+        "k_code": "K-003483",
+        "item_seq": "199102014",
+        "print_front": "SK",
+        "print_back": "G40"
+    },
+    "941": {
+        "k_code": "K-032376",
+        "item_seq": "201310917",
+        "print_front": "AM3020",
+        "print_back": ""
+    },
+    "942": {
+        "k_code": "K-006287",
+        "item_seq": "199701227",
+        "print_front": "Λ분할선G",
+        "print_back": "NT"
+    },
+    "943": {
+        "k_code": "K-036353",
+        "item_seq": "000036353",
+        "print_front": "",
+        "print_back": ""
+    },
+    "944": {
+        "k_code": "K-049881",
+        "item_seq": "201908384",
+        "print_front": "JB",
+        "print_back": "분할선"
+    },
+    "945": {
+        "k_code": "K-038972",
+        "item_seq": "201602714",
+        "print_front": "JS분할선C",
+        "print_back": ""
+    },
+    "946": {
+        "k_code": "K-043250",
+        "item_seq": "201800600",
+        "print_front": "HN",
+        "print_back": "G40"
+    },
+    "947": {
+        "k_code": "K-033333",
+        "item_seq": "201402834",
+        "print_front": "마크",
+        "print_back": "IV"
+    },
+    "948": {
+        "k_code": "K-001330",
+        "item_seq": "198400830",
+        "print_front": "YI",
+        "print_back": "12"
+    },
+    "949": {
+        "k_code": "K-025458",
+        "item_seq": "200902301",
+        "print_front": "N KYUNG DONG",
+        "print_back": ""
+    },
+    "950": {
+        "k_code": "K-041998",
+        "item_seq": "201705468",
+        "print_front": "GK분할선40",
+        "print_back": "HS"
+    },
+    "951": {
+        "k_code": "K-019461",
+        "item_seq": "200607006",
+        "print_front": "",
+        "print_back": "마크TM"
+    },
+    "952": {
+        "k_code": "K-051295",
+        "item_seq": "202002620",
+        "print_front": "P분할선U",
+        "print_back": "40"
+    },
+    "953": {
+        "k_code": "K-012769",
+        "item_seq": "200300406",
+        "print_front": "닥터베아제",
+        "print_back": ""
+    },
+    "954": {
+        "k_code": "K-024279",
+        "item_seq": "200807582",
+        "print_front": "T7",
+        "print_back": ""
+    },
+    "955": {
+        "k_code": "K-036307",
+        "item_seq": "201502862",
+        "print_front": "TB",
+        "print_back": "분할선"
+    },
+    "956": {
+        "k_code": "K-009453",
+        "item_seq": "200003092",
+        "print_front": "",
+        "print_back": ""
+    },
+    "957": {
+        "k_code": "K-002257",
+        "item_seq": "198800902",
+        "print_front": "Jy",
+        "print_back": "분할선"
+    },
+    "958": {
+        "k_code": "K-006562",
+        "item_seq": "199702177",
+        "print_front": "ETX",
+        "print_back": "L분할선D"
+    },
+    "959": {
+        "k_code": "K-025438",
+        "item_seq": "200902214",
+        "print_front": "Q",
+        "print_back": "YH"
+    },
+    "960": {
+        "k_code": "K-010284",
+        "item_seq": "200009522",
+        "print_front": "MCL",
+        "print_back": "ALV"
+    },
+    "961": {
+        "k_code": "K-002536",
+        "item_seq": "198802479",
+        "print_front": "SLEEP",
+        "print_back": "분할선"
+    },
+    "962": {
+        "k_code": "K-007339",
+        "item_seq": "199802620",
+        "print_front": "CP 8",
+        "print_back": ""
+    },
+    "963": {
+        "k_code": "K-010543",
+        "item_seq": "200100997",
+        "print_front": "BP분할선BP",
+        "print_back": ""
+    },
+    "964": {
+        "k_code": "K-025189",
+        "item_seq": "200900740",
+        "print_front": "67C분할선67C",
+        "print_back": ""
+    },
+    "965": {
+        "k_code": "K-025500",
+        "item_seq": "200902556",
+        "print_front": "PCT",
+        "print_back": ""
+    },
+    "966": {
+        "k_code": "K-007388",
+        "item_seq": "199803095",
+        "print_front": "CTZ",
+        "print_back": "마크"
+    },
+    "967": {
+        "k_code": "K-000481",
+        "item_seq": "197800262",
+        "print_front": "DCN",
+        "print_back": "마크"
+    },
+    "968": {
+        "k_code": "K-000779",
+        "item_seq": "198100428",
+        "print_front": "H분할선M",
+        "print_back": "SPA"
+    },
+    "969": {
+        "k_code": "K-001862",
+        "item_seq": "198700405",
+        "print_front": "BEARSE",
+        "print_back": ""
+    },
+    "970": {
+        "k_code": "K-045925",
+        "item_seq": "201901543",
+        "print_front": "",
+        "print_back": ""
+    },
+    "971": {
+        "k_code": "K-026581",
+        "item_seq": "200906052",
+        "print_front": "",
+        "print_back": ""
+    },
+    "972": {
+        "k_code": "K-002240",
+        "item_seq": "198800776",
+        "print_front": "TGIBS",
+        "print_back": ""
+    },
+    "973": {
+        "k_code": "K-004268",
+        "item_seq": "199302061",
+        "print_front": "YI",
+        "print_back": "24"
+    },
+    "974": {
+        "k_code": "K-008120",
+        "item_seq": "199902459",
+        "print_front": "DP",
+        "print_back": "J분할선80"
+    },
+    "975": {
+        "k_code": "K-016722",
+        "item_seq": "200500554",
+        "print_front": "CC",
+        "print_back": ""
+    },
+    "976": {
+        "k_code": "K-050705",
+        "item_seq": "202001489",
+        "print_front": "SSΛS",
+        "print_back": ""
+    },
+    "977": {
+        "k_code": "K-025283",
+        "item_seq": "200901296",
+        "print_front": "KDC",
+        "print_back": ""
+    },
+    "978": {
+        "k_code": "K-046127",
+        "item_seq": "201901869",
+        "print_front": "마크",
+        "print_back": ""
+    },
+    "979": {
+        "k_code": "K-030574",
+        "item_seq": "201301377",
+        "print_front": "UK",
+        "print_back": "SV"
+    },
+    "980": {
+        "k_code": "K-032138",
+        "item_seq": "201310133",
+        "print_front": "YI",
+        "print_back": "91"
+    },
+    "981": {
+        "k_code": "K-011220",
+        "item_seq": "200108429",
+        "print_front": "Bayer",
+        "print_back": ""
+    },
+    "982": {
+        "k_code": "K-019790",
+        "item_seq": "200608307",
+        "print_front": "CL",
+        "print_back": ""
+    },
+    "983": {
+        "k_code": "K-035659",
+        "item_seq": "201501483",
+        "print_front": "JT분할선10",
+        "print_back": ""
+    },
+    "984": {
+        "k_code": "K-041997",
+        "item_seq": "201705467",
+        "print_front": "GK분할선80",
+        "print_back": "HS"
+    },
+    "985": {
+        "k_code": "K-010995",
+        "item_seq": "200102905",
+        "print_front": "G분할선10",
+        "print_back": ""
+    },
+    "986": {
+        "k_code": "K-034125",
+        "item_seq": "201404327",
+        "print_front": "ENK",
+        "print_back": "ND"
+    },
+    "987": {
+        "k_code": "K-013368",
+        "item_seq": "200301730",
+        "print_front": "",
+        "print_back": ""
+    },
+    "988": {
+        "k_code": "K-004442",
+        "item_seq": "199304470",
+        "print_front": "",
+        "print_back": "Z40"
+    },
+    "989": {
+        "k_code": "K-005223",
+        "item_seq": "199501953",
+        "print_front": "10",
+        "print_back": "SIL"
+    },
+    "990": {
+        "k_code": "K-033332",
+        "item_seq": "201402832",
+        "print_front": "NO",
+        "print_back": "분할선"
+    },
+    "991": {
+        "k_code": "K-015499",
+        "item_seq": "200403052",
+        "print_front": "GJ",
+        "print_back": "TM"
+    },
+    "992": {
+        "k_code": "K-034484",
+        "item_seq": "201405003",
+        "print_front": "BP",
+        "print_back": "ΛS"
+    },
+    "993": {
+        "k_code": "K-000069",
+        "item_seq": "196500051",
+        "print_front": "마크",
+        "print_back": "T1E"
+    },
+    "994": {
+        "k_code": "K-050375",
+        "item_seq": "202000647",
+        "print_front": "SI",
+        "print_back": "FT"
+    },
+    "995": {
+        "k_code": "K-015236",
+        "item_seq": "200402560",
+        "print_front": "마크DUQ",
+        "print_back": ""
+    },
+    "996": {
+        "k_code": "K-041917",
+        "item_seq": "201704831",
+        "print_front": "JI",
+        "print_back": "G분할선80"
+    },
+    "997": {
+        "k_code": "K-049556",
+        "item_seq": "201907831",
+        "print_front": "",
+        "print_back": ""
+    },
+    "998": {
+        "k_code": "K-045265",
+        "item_seq": "201900178",
+        "print_front": "마크",
+        "print_back": ""
+    },
+    "999": {
+        "k_code": "K-017220",
+        "item_seq": "200501559",
+        "print_front": "NZT 75",
+        "print_back": ""
+    }
+}

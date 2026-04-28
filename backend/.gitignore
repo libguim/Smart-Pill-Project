@@ -1,0 +1,35 @@
+# Python 캐시 파일 (이미지에서 확인된 __pycache__ 제거)
+__pycache__/
+*.pyc
+*.pyo
+*.pyd 
+
+# AI 모델 파일 (471MB 대용량 파일 업로드 방지)
+*.pt
+*.pth
+*.h5
+*.onnx
+
+# 가상환경 및 설정
+.venv/
+env/
+venv/
+.env
+
+# 운영체제 임시 파일
+.DS_Store
+Thumbs.db
+
+# 로그 및 디버깅
+*.log
+pills/ai_engine/debug_images/*
+
+# 데이터셋 제외
+data/pill_data_croped/*
+# 테스트 이미지
+pills/ai_models/dir_testimage/*
+# 학습 로그 이미지 (대용량 PNG)
+logs/*
+
+# 테스트 이미지 폴더
+test_image/*

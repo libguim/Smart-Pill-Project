@@ -1,0 +1,35 @@
+# --- 핵심 프레임워크 ---
+django>=4.2,<5.0
+django-rest-framework
+django-cors-headers
+
+# --- AI 모델 및 수치 연산 (이미지 분석용) ---
+torch>=2.0.0
+torchvision>=0.15.0
+transformers>=4.30.0
+ftfy
+numpy<2.0
+pillow
+
+# --- 데이터베이스 연결 (HeidiSQL/MySQL/MariaDB) ---
+mysqlclient>=2.2.0
+
+# --- 이미지 전처리 및 유틸리티 ---
+opencv-python-headless
+imgaug
+tensorboard
+tqdm
+python-dotenv
+
+# --- OCR 및 텍스트 분석 ---
+paddlepaddle>=2.6.1
+paddleocr>=2.7.0
+easyocr
+pyclipper
+shapely
+lmdb
+scikit-image<=0.21.0
+scikit-learn
+
+# --- 배포 및 서버 실행 ---
+gunicorn
