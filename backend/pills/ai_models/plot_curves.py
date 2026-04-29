@@ -1,5 +1,9 @@
 # 실행: python plot_curves.py
 
+import sys
+from pathlib import Path
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+
 import os
 import matplotlib
 matplotlib.use('Agg')
@@ -7,7 +11,6 @@ import matplotlib.pyplot as plt
 import matplotlib.ticker as ticker
 import numpy as np
 from datetime import datetime
-from pathlib import Path
 
 import torch
 import torch.nn as nn
