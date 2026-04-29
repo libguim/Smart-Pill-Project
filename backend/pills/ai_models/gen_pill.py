@@ -144,6 +144,13 @@ class Gen_Digit():
                     self.list_label_path += dict_temp.get('pngfile_class1_test',[])
                     print(f'label_path was loaded from   <<< pngfile_class1_test >>>')
 
+            # ── 상대경로 → 절대경로 복원 (다른 PC 이식 대응) ──
+            base = Path(args.dir_pill_class_base)
+            self.list_label_path = [
+                str(base / p) if not Path(p).is_absolute() else p
+                for p in self.list_label_path
+            ]
+
             dict_pillid_label = make_label_sharpness.get_dict_pillid_label(args)
             self.list_label_path = [(dict_pillid_label[get_pillid_from_pillfile(pngfile)], pngfile) for pngfile in self.list_label_path]
 
