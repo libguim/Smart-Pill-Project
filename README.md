@@ -8,7 +8,7 @@
 
 <br>
 
-## 🎬 시연 영상 | Demo
+## 🎬 시연 | Demo
 
 ![Demo](./demo.gif)
 
@@ -63,7 +63,7 @@
 | 학습 클래스 수 | 1,000종 |
 | Top-1 Accuracy | **92.66%** (Validation, Epoch 41) |
 | 학습 데이터 | 국내 다빈도 의약품 ~5,000품목 |
-| GPU 환경 추론 속도 | TBD |
+| GPU 환경 추론 속도 | 이미지 1장당 ~1초 미만 (RTX 5090, VRAM 47.1GB) |
 | CPU 환경 추론 속도 | 이미지 1장당 6~8초 |
 
 ### 📈 학습 곡선 | Training Curves
@@ -81,7 +81,7 @@
 - Python 3.10 이상
 - Node.js 18 이상
 - MariaDB 설치 및 실행 중
-- CUDA 12.8 이상 (GPU 사용 시, RTX 5090 포함)
+- CUDA 12.8 이상 (GPU 사용 시) — 개발 환경: NVIDIA GeForce RTX 5090, VRAM 47.1GB
 
 ---
 
