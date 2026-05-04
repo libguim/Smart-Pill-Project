@@ -10,7 +10,7 @@
 
 ## 🎬 시연 영상 | Demo
 
-![시연 영상](https://github.com/user-attachments/assets/4c4abe41-1c2f-4cf5-a1f4-7b71a14b1288)
+![Demo](./demo.gif)
 
 <br>
 
